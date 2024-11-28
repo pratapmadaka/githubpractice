@@ -1,0 +1,1698 @@
+node-abab/noble 2.0.6-1 all
+node-abbrev/noble,now 1.1.1+~1.1.2-1 all [installed,automatic]
+node-abstract-leveldown/noble 6.3.0+~cs7.0.4-3 all
+node-accepts/noble 1.3.8-2 all
+node-acorn/noble,now 8.8.1+ds+~cs25.17.7-2 all [installed,automatic]
+node-active-x-obfuscator/noble 0.0.2-5 all
+node-addon-api/noble 8.0.0-1 all
+node-address/noble 2.0.1-1 all
+node-addressparser/noble 1.0.1+repack-4 all
+node-after/noble 0.8.2-4 all
+node-agent-base/noble,now 7.1.0~0~2023071921-5 all [installed,automatic]
+node-ajv-keywords/noble,now 5.1.0-4 all [installed,automatic]
+node-ajv/noble,now 8.12.0~ds+~2.1.1-4 all [installed,automatic]
+node-almond/noble 0.3.3+dfsg-10 all
+node-amdefine/noble 1.0.1-6 all
+node-ampproject-remapping/noble,now 2.2.0+~cs5.15.37-1 all [installed,automatic]
+node-ansi-align/noble 3.0.1-1 all
+node-ansi-color-table/noble 1.0.1-5 all
+node-ansi-colors/noble 4.1.3-2 all
+node-ansi-escapes/noble,now 5.0.0+really.4.3.1-1 all [installed,automatic]
+node-ansi-font/noble 0.0.2-3 all
+node-ansi-regex/noble,now 5.0.1-1 all [installed,automatic]
+node-ansi-styles/noble,now 6.2.1-2 all [installed,automatic]
+node-ansi-up/noble 5.1.0+dfsg-2 all
+node-ansi/noble 0.3.1-2 all
+node-ansistyles/noble 0.1.3-5 all
+node-any-promise/noble 1.3.0+~cs0.12.21-1 all
+node-anymatch/noble,now 3.1.3+~cs4.6.1-2 all [installed,automatic]
+node-ap/noble 0.2.0-2 all
+node-applause/noble 2.0.4+~cs2.1.13-2 all
+node-aproba/noble,now 2.0.0-3 all [installed,automatic]
+node-archy/noble,now 1.0.0-6 all [installed,automatic]
+node-are-we-there-yet/noble,now 3.0.1+~1.1.0-1 all [installed,automatic]
+node-arg/noble 5.0.2-2 all
+node-argparse/noble,now 2.0.1-2 all [installed,automatic]
+node-args/noble 5.0.3~0~2023071921-5 all
+node-argv/noble 0.0.2-7 all
+node-arr-diff/noble 4.0.0+~4.0.0-2 all
+node-arr-exclude/noble 2.0.0-3 all
+node-arr-flatten/noble 1.1.0-3 all
+node-arr-union/noble 3.1.0+~3.1.0-1 all
+node-array-differ/noble 3.0.0-4 all
+node-array-equal/noble 1.0.0-4 all
+node-array-find-index/noble 1.0.2+~1.0.0-1 all
+node-array-flatten/noble 2.1.2-1 all
+node-array-from/noble 2.1.1-3 all
+node-array-union/noble 2.1.0-3 all
+node-array-uniq/noble 2.1.0-2 all
+node-array-unique/noble 0.3.2+~0.3.0-2 all
+node-arrify/noble,now 2.0.1-3 all [installed,automatic]
+node-asap/noble 2.0.6+~2.0.0-1 all
+node-asn1.js/noble 5.4.1-4 all
+node-asn1/noble 0.2.6+~0.2.0-2 all
+node-assert-plus/noble 1.0.0-4 all
+node-assert/noble,now 2.0.0+~cs3.9.8-2 all [installed,automatic]
+node-assertion-error/noble 1.1.0-2 all
+node-assertive/noble 5.0.5-1 all
+node-assume/noble 2.3.0-3 all
+node-ast-types/noble 0.16.1-3 all
+node-ast-util/noble 0.6.0-7 all
+node-astw/noble 2.2.0-8 all
+node-async-each/noble,now 1.0.3-3 all [installed,automatic]
+node-async-limiter/noble 2.0.0-4 all
+node-async-stacktrace/noble 0.0.2-6 all
+node-async/noble,now 0.8.0-6 all [installed,automatic]
+node-asynckit/noble 0.4.0-5 all
+node-atomico-rollup-plugin-sizes/noble 1.1.4-3 all
+node-auth-header/noble 1.0.0~1.1.0+~cs15.1.20180823-3 all
+node-auto-bind/noble,now 4.0.0-2 all [installed,automatic]
+node-autolinker/noble 1.8.3+dfsg-5 all
+node-autoprefixer/noble 10.4.7.0+dfsg1+~cs24.8.7-5 all
+node-autosize/noble 4.0.4~dfsg1+~4.0.0-2 all
+node-aws-sign2/noble 0.7.1-4 all
+node-aws4/noble 1.11.0-2 all
+node-axios/noble 1.6.8+dfsg-2 all
+node-babel-helper-define-polyfill-provider/noble,now 0.3.3~0~20220913+ds1-1 all [installed,automatic]
+node-babel-loader/noble 9.1.0-3 all
+node-babel-plugin-add-module-exports/noble,now 1.0.4+dfsg1~cs5.8.0-4 all [installed,automatic]
+node-babel-plugin-array-includes/noble 2.0.3-3 all
+node-babel-plugin-lodash/noble,now 3.3.4+~cs2.0.1-7 all [installed,automatic]
+node-babel-plugin-macros/noble 3.1.0~11.10.7+ds1+~cs8.3.3-4 all
+node-babel-plugin-polyfill-corejs2/noble,now 0.3.3~0~20220913+ds1-1 all [installed,automatic]
+node-babel-plugin-polyfill-corejs3/noble,now 0.6.0~0~20220913+ds1-1 all [installed,automatic]
+node-babel-plugin-polyfill-es-shims/noble 0.7.1~0~20220913+ds1-1 all
+node-babel-plugin-polyfill-regenerator/noble,now 0.4.1~0~20220913+ds1-1 all [installed,automatic]
+node-babel-plugin-transform-vue-jsx/noble 4.0.1-1 all
+node-babel7-debug/noble 7.20.15+ds1+~cs214.269.168-6build1 all
+node-babel7-runtime/noble,now 7.20.15+ds1+~cs214.269.168-6build1 all [installed,automatic]
+node-babel7-standalone/noble 7.20.15+ds1+~cs214.269.168-6build1 all
+node-babel7/noble,now 7.20.15+ds1+~cs214.269.168-6build1 all [installed,automatic]
+node-babylon/noble 6.18.0+~6.16.6-2 all
+node-backbone/noble 1.4.1~dfsg+~1.4.15-3 all
+node-backoff/noble 2.5.0+~cs2.7.5-3 all
+node-balanced-match/noble,now 2.0.0-1 all [installed,automatic]
+node-base16/noble 1.0.0+~cs1.0.2-3 all
+node-base62/noble 2.0.1-4 all
+node-base64-js/noble,now 1.5.1+dfsg+~1.3.0-2 all [installed,automatic]
+node-base64id/noble 2.0.0+~2.0.0-1 all
+node-base64url/noble 3.0.1-9 all
+node-base/noble,now 3.0.0-3 all [installed,automatic]
+node-bash-color/noble 0.0.4-2 all
+node-bash-match/noble 1.0.2-3 all
+node-bash/noble 0.0.1-5 all
+node-basic-auth-parser/noble 0.0.2-4 all
+node-basic-auth/noble 2.0.1-4 all
+node-basic-ftp/noble 5.0.3~0~2023071921-5 all
+node-batch/noble 0.6.1-4 all
+node-bcrypt-pbkdf/noble 1.0.2-3 all
+node-beeper/noble 2.1.0+~1.2.0-1 all
+node-benchmark/noble 2.1.4+~2.1.2-2 all
+node-big-integer/noble 1.6.51~dfsg-4 all
+node-big.js/noble 6.2.1+ds+~6.1.5-2 all
+node-bignumber/noble 9.1.1-1 all
+node-binary-extensions/noble,now 2.2.0-2 all [installed,automatic]
+node-bindings/noble 1.5.0-2 all
+node-bl/noble 5.1.0-1 all
+node-blacklist/noble 1.1.4+ds1-5 all
+node-blob/noble 0.0.4-5 all
+node-block-stream/noble 0.0.9-5 all
+node-bluebird/noble 3.7.2+dfsg1+~3.5.36-2 all
+node-blueimp-md5/noble 2.19.0~ds-3 all
+node-blueprintjs-colors/noble 5.0.0~alpha.0+ds-2 all
+node-blueprintjs-core/noble 4.17.8~git20230417213433.6dab069+ds1-3 all
+node-blueprintjs-popover2/noble 1.13.12~4.17.8~git20230417213433.6dab069+ds1-3 all
+node-blueprintjs-select/noble 4.9.12~4.17.8~git20230417213433.6dab069+ds1-3 all
+node-bn.js/noble 5.2.1+~5.1.1-1 all
+node-body-parser/noble 1.20.2+~1.19.5-1build2 all
+node-boolbase/noble 1.0.0+~1.0.0-1 all
+node-boom/noble 10.0.1+~3.0.1-1 all
+node-bootstrap-sass/noble 3.4.3-2 all
+node-bootstrap-switch/noble 3.3.4+dfsg+really3.3.3-3 all
+node-bootstrap/noble 5.3.1+dfsg-1 all
+node-boxen/noble 7.1.1-1 all
+node-brace-expansion/noble,now 2.0.1+~1.1.0-1 all [installed,automatic]
+node-braces/noble,now 3.0.2+~3.0.1-1 all [installed,automatic]
+node-brfs/noble 2.0.2-3 all
+node-brorand/noble 1.1.0-5 all
+node-brotli-size/noble 4.0.0-4 all
+node-browser-pack/noble 6.1.0+ds+~6.1.3-1 all
+node-browser-resolve/noble 2.0.0-3 all
+node-browser-stdout/noble 1.3.1-7 all
+node-browser-unpack/noble 1.4.2-5 all
+node-browserify-aes/noble 1.2.0-5 all
+node-browserify-cipher/noble 1.0.1-2 all
+node-browserify-des/noble 1.0.2-6 all
+node-browserify-lite/noble 0.5.1+~cs7.1.5-5 all
+node-browserify-rsa/noble 4.1.0-2 all
+node-browserify-sign/noble 4.2.2-1 all
+node-browserify-zlib/noble 0.2.0+20170820git8b3f0a862f6b+dfsg-9 all
+node-browserify/noble 17.0.0+ds-5 all
+node-browserslist/noble,now 4.22.1+~cs6.1.28-1 all [installed,automatic]
+node-buble/noble 0.20.0+~0.20.1-5 all
+node-buf-compare/noble 2.0.0-2 all
+node-buffer-crc32/noble 0.2.13+~0.2.0-2 all
+node-buffer-equal/noble 1.0.1+~1.0.0-1 all
+node-buffer-xor/noble 2.0.1.REALLY.1.0.3-3 all
+node-buffer/noble 6.0.3-3 all
+node-bufferjs/noble 3.1.0+git20160608.605b357+~cs0.6.2-2 all
+node-bufferlist/noble 0.1.0-3 all
+node-buffers/noble 0.1.1-5 all
+node-builtin-modules/noble 3.3.0-2 all
+node-builtin-status-codes/noble 3.0.0-3 all
+node-builtins/noble,now 5.0.1-1 all [installed,automatic]
+node-bunyan/noble 2.0.5+~cs4.4.3-2 all
+node-busboy/noble,now 1.6.0+~cs2.6.0-2 all [installed,automatic]
+node-bytes/noble 3.1.2-1 all
+node-cacache/noble,now 17.0.3+~cs10.3.7-1 all [installed,automatic]
+node-cache-base/noble,now 4.0.2-1 all [installed,automatic]
+node-cache-loader/noble 4.1.0+~cs2.0.0-4 all
+node-cached-path-relative/noble 1.1.0+~1.0.0-3 all
+node-call-limit/noble 1.1.1-3 all
+node-callback-stream/noble 1.1.0-4 all
+node-caller/noble 1.1.0+~1.0.0-2 all
+node-camelcase-keys/noble 8.0.2-3 all
+node-camelcase/noble,now 7.0.0-3 all [installed,automatic]
+node-caniuse-api/noble 3.0.0+~3.0.2-1 all
+node-caniuse-db/noble 1.0.30001571-1 all
+node-caniuse-lite/noble,now 1.0.30001571+dfsg+~1.0.5-1 all [installed,automatic]
+node-canvas-confetti/noble 1.5.1+~1.4.3-2 all
+node-carto/noble 1.2.0-4 all
+node-caseless/noble 0.12.1-2 all
+node-catty/noble 0.1.0-1 all
+node-cbor/noble 8.1.0+dfsg+~cs5.2.1-3 all
+node-chai-as-promised/noble 7.1.1+~cs7.1.4-3 all
+node-chainsaw/noble 0.1.0-4 all
+node-chalk/noble,now 5.3.0-1build1 all [installed,automatic]
+node-chance/noble 2.2.6+dfsg-6 all
+node-change-case/noble 0.0~git20211010.040a079-1 all
+node-channels/noble 0.0.5-5 all
+node-character-parser/noble 3.1.0-4 all
+node-charm/noble 1.0.2-3 all
+node-chart.js/noble 3.9.1+~cs3.1.2-3 all
+node-check-error/noble 1.0.2-4 all
+node-cheerio/noble 1.0.0~rc~12+~cs2.1.0-3 all
+node-chokidar/noble,now 3.6.0-2 all [installed,automatic]
+node-chownr/noble,now 2.0.0-2 all [installed,automatic]
+node-chroma-js/noble 2.4.0+dfsg+~2.1.3-2 all
+node-chrome-trace-event/noble,now 1.0.3-2 all [installed,automatic]
+node-chrono/noble 1.0.5-1 all
+node-ci-info/noble,now 4.0.0+~cs1.1.0-1build2 all [installed,automatic]
+node-cipher-base/noble 1.0.4-6 all
+node-cjs-module-lexer/noble,now 1.2.3+dfsg-1 all [installed,automatic]
+node-cjson/noble 0.5.0-3 all
+node-clarinet/noble 0.12.4+dfsg-3 all
+node-class-utils/noble 0.3.6-6 all
+node-classnames/noble 2.3.2-2 all
+node-clean-css/noble 5.3.2+~5.6.2-1ubuntu1 all
+node-clean-yaml-object/noble 0.1.0-6 all
+node-cli-boxes/noble,now 3.0.0-1build2 all [installed,automatic]
+node-cli-cursor/noble,now 4.0.0-3 all [installed,automatic]
+node-cli-spinners/noble 2.7.0-1 all
+node-cli-table/noble,now 0.3.11+~cs0.13.4-3 all [installed,automatic]
+node-cli-truncate/noble,now 2.1.0-5 all [installed,automatic]
+node-cli-width/noble 3.0.0-2 all
+node-client-sessions/noble 0.8.0+~0.8.3-2 all
+node-clipanion/noble 3.2.1+dfsg-1 all
+node-clipboard/noble 2.0.11+ds+~cs9.6.11-1 all
+node-cliui/noble,now 7.0.4+repack+~cs3.1.0-4 all [installed,automatic]
+node-clone-buffer/noble 1.0.0-5 all
+node-clone-deep/noble,now 4.0.1+~cs7.0.2-1 all [installed,automatic]
+node-clone-stats/noble 1.0.0-3 all
+node-clone/noble,now 2.1.2+~2.1.2-1 all [installed,automatic]
+node-cloneable-readable/noble 2.1.0+~2.0.0-1 all
+node-co/noble 4.6.0+~4.6.2-2 all
+node-coa/noble 2.0.2-4 all
+node-code/noble 9.0.2-1 all
+node-codemirror-autocomplete/noble 6.11.1~6.22.3+~cs119.52.50-1 all
+node-codemirror-commands/noble 6.3.2~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-cpp/noble 6.0.2~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-css/noble 6.2.1~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-html/noble 6.4.7~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-java/noble 6.0.1~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-javascript/noble 6.2.1~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-json/noble 6.0.1~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-markdown/noble 6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-php/noble 6.0.1~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-python/noble 6.1.3~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-rust/noble 6.0.1~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-sql/noble 6.5.4~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-wast/noble 6.0.1~6.22.3+~cs119.52.50-1 all
+node-codemirror-lang-xml/noble 6.0.2~6.22.3+~cs119.52.50-1 all
+node-codemirror-language/noble 6.9.3~6.22.3+~cs119.52.50-1 all
+node-codemirror-legacy-modes/noble 6.3.3~6.22.3+~cs119.52.50-1 all
+node-codemirror-lint/noble 6.4.2~6.22.3+~cs119.52.50-1 all
+node-codemirror-search/noble 6.5.5~6.22.3+~cs119.52.50-1 all
+node-codemirror-state/noble 6.2.0-2 all
+node-codemirror-view/noble 6.22.3~6.22.3+~cs119.52.50-1 all
+node-coffee-loader/noble 4.0.0-1 all
+node-coffeeify/noble 2.1.0-5 all
+node-collection-visit/noble,now 1.0.0-4 all [installed,automatic]
+node-color-convert/noble,now 2.0.1+~cs2.0.0-2 all [installed,automatic]
+node-color-name/noble,now 1.1.4+~1.1.1-2 all [installed,automatic]
+node-color-string/noble 1.9.1-2 all
+node-color/noble 4.2.3+~cs3.0.3-1 all
+node-colormin/noble 1.1.2-6 all
+node-colors/noble,now 1.4.0-4 all [installed,automatic]
+node-colorspace/noble 1.1.4-1 all
+node-columnify/noble,now 1.6.0+~1.5.1-1 all [installed,automatic]
+node-combine-source-map/noble 0.8.0+ds-8 all
+node-combined-stream/noble 1.0.8+~1.0.3-1 all
+node-commander/noble,now 9.4.1-1 all [installed,automatic]
+node-commist/noble 3.1.2+ds-2 all
+node-commondir/noble,now 1.0.1+~1.0.0-1 all [installed,automatic]
+node-commoner/noble 0.15.2+~0.10.8-1 all
+node-compare-versions/noble 5.0.1-3build2 all
+node-component-consoler/noble 2.0.0-4 all
+node-component-emitter/noble 1.3.0+~1.2.11-2 all
+node-compressible/noble 2.0.18+~2.0.0-1 all
+node-compression-webpack-plugin/noble 10.0.0-2 all
+node-compression/noble 1.7.4-3 all
+node-concat-map/noble 0.0.2+~0.0.1-1 all
+node-concat-stream/noble,now 2.0.0+~2.0.0-2 all [installed,automatic]
+node-concat-with-sourcemaps/noble 1.0.7-3 all
+node-concordance/noble 5.0.4+~cs5.2.1-3 all
+node-config-chain/noble 1.1.12-3 all
+node-config/noble 3.3.10-1 all
+node-configstore/noble 6.0.0-2 all
+node-configurable-http-proxy/noble 4.5.3+~cs15.2.4-3ubuntu1 all
+node-connect/noble 3.7.0+~3.4.35-1 all
+node-console-browserify/noble 1.2.0-2 all
+node-console-control-strings/noble,now 1.1.0-3 all [installed,automatic]
+node-console-group/noble 0.3.3-5 all
+node-consolidate/noble 0.16.0+~0.14.1-2 all
+node-constantinople/noble 4.0.1-5 all
+node-constants-browserify/noble 1.0.0+dfsg-8 all
+node-content-disposition/noble 0.5.4-2 all
+node-content-type/noble 1.0.5-1 all
+node-convert-source-map/noble,now 1.9.0+~1.5.2-1 all [installed,automatic]
+node-cookie-jar/noble 0.3.1-2 all
+node-cookie-parser/noble 1.4.6+~1.4.3-1 all
+node-cookie-signature/noble 1.2.1+~1.1.2-1build2 all
+node-cookie/noble 0.5.0-2 all
+node-cookiejar/noble 2.1.4+~2.1.2-1 all
+node-cookies/noble 0.8.0+~0.7.7-1 all
+node-copy-concurrently/noble,now 1.0.5-9 all [installed,automatic]
+node-copy-descriptor/noble 0.1.1-3 all
+node-copy-paste/noble 1.5.3-1 all
+node-copy-webpack-plugin/noble 11.0.0-3 all
+node-core-js-builder/noble 3.33.2-1build2 all
+node-core-js-bundle/noble 3.33.2-1build2 all
+node-core-js-compat/noble,now 3.33.2-1build2 all [installed,automatic]
+node-core-js-pure/noble,now 3.33.2-1build2 all [installed,automatic]
+node-core-js/noble,now 3.33.2-1build2 all [installed,automatic]
+node-core-util-is/noble,now 1.0.3-1 all [installed,automatic]
+node-cors/noble 2.8.5-1 all
+node-cosmiconfig/noble 7.1.0+ds1-1 all
+node-coveralls/noble,now 3.1.1-2build1 all [installed,automatic]
+node-cpr/noble 3.0.1-4 all
+node-crc32/noble 0.2.2-4 all
+node-crc/noble 4.3.2-1 all
+node-create-ecdh/noble 4.0.4-2 all
+node-create-hash/noble 1.2.0-4 all
+node-create-hmac/noble 1.1.7+~1.1.0-2 all
+node-create-react-class/noble 15.7.0+dfsg+~15.6.3-3 all
+node-create-require/noble 1.1.1-4 all
+node-crelt/noble 1.0.6~6.22.3+~cs119.52.50-1 all
+node-cron-validator/noble 1.3.1-3 all
+node-cronstrue/noble 2.21.0-1 all
+node-cross-fetch/noble 4.0.0+ds-2build2 all
+node-cryptiles/noble 6.0.0-1 all
+node-crypto-browserify/noble 3.12.0-6 all
+node-crypto-random-string/noble 3.3.1-1 all
+node-cson-parser/noble 4.0.9-2 all
+node-css-color-names/noble 1.0.1+dfsg-2 all
+node-css-initials/noble 0.3.1~10.10.0+ds3+~0.3.1-1 all
+node-css-jss/noble 10.10.0+ds3+~0.3.1-1 all
+node-css-loader/noble,now 6.8.1+~cs14.0.17-1 all [installed,automatic]
+node-css-select/noble 5.1.0-4 all
+node-css-selector-tokenizer/noble,now 0.8.0+~cs4.8.3-1 all [installed,automatic]
+node-css-tree/noble 2.3.1-1 all
+node-css-vendor/noble 2.0.8+~2.0.0-2 all
+node-css-what/noble 6.1.0-5 all
+node-css/noble 3.0.0+repack-2 all
+node-cssom/noble 0.4.4-3 all
+node-cssstyle/noble 2.3.0-3 all
+node-csstype/noble 3.1.3-1 all
+node-csv-spectrum/noble 1.0.0-3 all
+node-cuint/noble 0.2.2-3 all
+node-currently-unhandled/noble 0.4.1-4 all
+node-cycle/noble 1.0.3-4 all
+node-cyclist/noble 1.0.1-4 all
+node-d3-array/noble 3.2.0+~cs5.0.6-2 all
+node-d3-axis/noble 1.0.12+~1.0.16-1 all
+node-d3-brush/noble 1.1.6+~1.1.5-1 all
+node-d3-chord/noble 1.0.6+~1.0.11-1 all
+node-d3-collection/noble 1.0.7+~1.0.10-1 all
+node-d3-color/noble 1.4.1+~1.4.2-1 all
+node-d3-contour/noble 1.3.2+~1.3.3-1 all
+node-d3-delaunay/noble 6.0.4+~cs19.0.3-2 all
+node-d3-dispatch/noble 1.0.6+~1.0.9-1 all
+node-d3-drag/noble 1.2.5+~1.2.5-1 all
+node-d3-dsv/noble 1.2.0+~1.2.3-1 all
+node-d3-ease/noble 1.0.7+~1.0.11-1 all
+node-d3-fetch/noble 1.2.0+~1.2.2-1 all
+node-d3-force/noble 2.1.1+~2.1.4-1 all
+node-d3-format/noble 1:1.4.5+~1.4.2-2 all
+node-d3-geo-projection/noble 4.0.0-2 all
+node-d3-geo/noble 1.12.1+~1.12.4-1 all
+node-d3-hierarchy/noble 1.1.9+~1.1.8-1 all
+node-d3-interpolate/noble 1.4.0+~1.4.2-1 all
+node-d3-path/noble 1.0.9+~1.0.9-1 all
+node-d3-polygon/noble 1.0.6+~1.0.8-1 all
+node-d3-quadtree/noble 1.0.7+~1.0.9-1 all
+node-d3-queue/noble 3.0.7-13 all
+node-d3-random/noble 1.1.2+~1.1.3-1 all
+node-d3-scale-chromatic/noble 1.5.0+~1.5.1-1 all
+node-d3-scale/noble 2.2.2+~2.2.6-1 all
+node-d3-selection/noble 1.4.1+~1.4.3-1 all
+node-d3-shape/noble 1.3.7+~1.3.8-1 all
+node-d3-time-format/noble 2.3.0+~2.3.1-1 all
+node-d3-time/noble 1.1.0+~1.1.1-1 all
+node-d3-timer/noble 1.0.10+~1.0.10-1 all
+node-d3-transition/noble 1.3.2+~1.3.2-1 all
+node-d3-voronoi/noble 1.1.4+~1.1.9-1 all
+node-d3-zoom/noble 1.8.3+~1.8.4-1 all
+node-d3/noble 5.16.0+~cs5.28.10-2 all
+node-d/noble 1.0.1+~1.0.1-2 all
+node-dabh-diagnostics/noble 2.0.2-5 all
+node-daemon/noble 1.1.0-2 all
+node-dagre-d3-renderer/noble 0.6.4+dfsg-7 all
+node-dagre-layout/noble 0.8.8+really0.8.5+dfsg-6 all
+node-dargs/noble 7.0.0-3 all
+node-dashdash/noble 2.0.0-4 all
+node-data-uri-to-buffer/noble,now 5.0.1~0~2023071921-5 all [installed,automatic]
+node-date-now/noble 1.0.1-4 all
+node-date-time/noble 3.1.0-3 all
+node-dateformat/noble 5.0.3+~5.0.0-2 all
+node-de-indent/noble 1.0.2-3 all
+node-death/noble 1.1.0-2 all
+node-debbundle-acorn/noble 8.8.1+ds+~cs25.17.7-2 all
+node-debbundle-es-to-primitive/noble,now 1.2.1+~cs9.7.25-2 all [installed,automatic]
+node-debbundle-insert-module-globals/noble 7.2.1+ds+~cs4.3.4-6 all
+node-debug-fabulous/noble 1.1.0-4 all
+node-debug/noble,now 4.3.4+~cs4.1.7-1 all [installed,automatic]
+node-decamelize/noble,now 4.0.0-2 all [installed,automatic]
+node-decko/noble 1.2.0-3 all
+node-decompress-response/noble,now 6.0.0-2 all [installed,automatic]
+node-deep-eql/noble 4.1.3-1 all
+node-deep-equal/noble,now 2.2.3+~cs43.15.94-1 all [installed,automatic]
+node-deep-extend/noble 0.6.0-4 all
+node-deep-for-each/noble 3.0.0-5 all
+node-deep-is/noble,now 0.1.4-1 all [installed,automatic]
+node-deepmerge/noble 4.3.1+~1.1.1-1build1 all
+node-defaults/noble,now 1.0.4+~1.0.3-1 all [installed,automatic]
+node-define-lazy-prop/noble 3.0.0-7 all
+node-define-properties/noble,now 1.2.1+~cs2.2.3-1 all [installed,automatic]
+node-define-property/noble,now 2.0.2+really+2.0.2-3 all [installed,automatic]
+node-defined/noble,now 1.0.1+~1.0.0-1 all [installed,automatic]
+node-deflate-js/noble 0.2.3-3 all
+node-degenerator/noble 5.0.1~0~2023071921-5 all
+node-del/noble,now 7.0.0-5 all [installed,automatic]
+node-delayed-stream/noble 1.0.0-5 all
+node-delegates/noble,now 1.0.0-3 all [installed,automatic]
+node-delve/noble 0.3.2-3 all
+node-depd/noble,now 2.0.0-2 all [installed,automatic]
+node-deprecated/noble 0.0.2-3 all
+node-deps-sort/noble 2.0.1-3 all
+node-dequeue/noble 1.0.5-6 all
+node-des.js/noble 1.0.1-3 all
+node-detect-file/noble 1.0.0-3 all
+node-detect-indent/noble 6.1.0-1 all
+node-detect-newline/noble 3.1.0-2 all
+node-detective/noble 5.2.1+~5.1.2-1 all
+node-devtools-protocol/noble 0.0.801017-1 all
+node-diacritics/noble 1.3.0-3 all
+node-diff/noble,now 5.0.0~dfsg+~5.0.1-4 all [installed,automatic]
+node-difflet/noble 1.0.1-4 all
+node-dirty/noble 1.1.3-1 all
+node-doctrine/noble,now 3.0.0-4 all [installed,automatic]
+node-dom-helpers/noble 5.2.1-2 all
+node-dom-serializer/noble 2.0.0-4 all
+node-dom4/noble 2.1.6+dfsg2+~2.0.2-2 all
+node-domain-browser/noble 4.22.0-1 all
+node-domelementtype/noble 2.3.0-1 all
+node-domhandler/noble 5.0.3-4build2 all
+node-domino/noble 2.1.6~ds-5 all
+node-dommatrix/noble 1.0.3+dfsg-5 all
+node-dompurify/noble 3.0.9+dfsg+~3.0.5-1 all
+node-domutils/noble 3.1.0-2 all
+node-dot-prop/noble 7.2.0-3 all
+node-dot/noble 1.1.3+ds-2 all
+node-dottie/noble 2.0.6+~2.0.5-2 all
+node-dryice/noble 0.4.11-2 all
+node-dtrace-provider/noble 0.8.8-3 all
+node-duplexer3/noble 1.0.0+~0.1.1-2 all
+node-duplexer/noble 0.1.2-1 all
+node-duplexify/noble 4.1.2-1 all
+node-duration/noble 0.2.2-5 all
+node-ebnf-parser/noble 0.1.10+dfsg-4 all
+node-ecc-jsbn/noble 0.2.0-4 all
+node-editor/noble 1.0.0-3 all
+node-ejs/noble 3.1.9+~3.1.5-1 all
+node-electron-to-chromium/noble,now 1.4.616-1 all [installed,automatic]
+node-elliptic/noble 6.5.4~dfsg-2 all
+node-emittery/noble 1.0.1-1 all
+node-emoji/noble 1.11.0+~1.8.2-1 all
+node-emojis-list/noble 3.0.0-2 all
+node-emotion/noble 11.10.7+ds1+~cs8.3.3-4 all
+node-enabled/noble 2.0.0-6 all
+node-encodeurl/noble 1.0.2+~1.0.0-1 all
+node-encoding/noble,now 0.1.13-2 all [installed,automatic]
+node-end-of-stream/noble,now 1.4.4+~1.4.1-1 all [installed,automatic]
+node-enhanced-resolve/noble,now 5.15.0-1 all [installed,automatic]
+node-enquirer/noble 2.3.6~ds-4 all
+node-entities/noble 4.5.0+dfsg-1 all
+node-err-code/noble,now 2.0.3+dfsg-3 all [installed,automatic]
+node-errno/noble,now 1.0.0-3 all [installed,automatic]
+node-error-ex/noble,now 1.3.2-4 all [installed,automatic]
+node-errorhandler/noble 1.5.1-3 all
+node-errs/noble 0.3.2-3 all
+node-es-abstract/noble,now 1.20.4+~cs26.27.47-1 all [installed,automatic]
+node-es-module-lexer/noble,now 1.1.0+dfsg-3 all [installed,automatic]
+node-es5-ext/noble 0.10.62+dfsg1+~1.1.0-2 all
+node-es5-shim/noble 4.6.7-2 all
+node-es6-error/noble,now 4.1.1-5 all [installed,automatic]
+node-es6-iterator/noble 2.0.3-4 all
+node-es6-map/noble 0.1.5-3 all
+node-es6-promise/noble 4.2.8-12 all
+node-es6-set/noble 0.1.6-1 all
+node-es6-shim/noble 0.35.6+ds+~0.31.42-2 all
+node-es6-symbol/noble 3.1.3+~cs3.11.0-2 all
+node-es6-weak-map/noble 2.0.3-3 all
+node-escape-html/noble 1.0.3+~1.0.2-2 all
+node-escape-string-regexp/noble,now 4.0.0-2 all [installed,automatic]
+node-escodegen/noble,now 2.1.0+dfsg+~0.0.8-1 all [installed,automatic]
+node-escope/noble 3.6.0+ds-4 all
+node-eslint-plugin-es/noble 4.1.0~ds1-5 all
+node-eslint-plugin-eslint-plugin/noble 2.3.0+~0.3.0-6 all
+node-eslint-plugin-flowtype/noble 2.25.0-4 all
+node-eslint-plugin-html/noble 6.2.0-3 all
+node-eslint-plugin-node/noble 11.1.0~ds-5 all
+node-eslint-plugin-react-hooks/noble 4.5.0~18.2.0+dfsg+~cs88.72.117-1 all
+node-eslint-plugin-requirejs/noble 4.0.1-1 all
+node-eslint-scope/noble,now 7.1.1+~3.7.4-1 all [installed,automatic]
+node-eslint-utils/noble,now 3.0.0-3 all [installed,automatic]
+node-eslint-visitor-keys/noble,now 3.3.0+~1.0.0-1 all [installed,automatic]
+node-espree/noble,now 9.4.1~dfsg-2 all [installed,automatic]
+node-esprima-fb/noble 15001.1001.0-dev-harmony-fb-4 all
+node-esprima/noble,now 4.0.1+ds+~4.0.3-2 all [installed,automatic]
+node-esquery/noble,now 1.4.2~ds-1 all [installed,automatic]
+node-esrecurse/noble,now 4.3.0-2 all [installed,automatic]
+node-estraverse/noble,now 5.3.0+ds+~5.1.1-1 all [installed,automatic]
+node-estree-walker/noble 2.0.2-5 all
+node-esutils/noble,now 2.0.3+~2.0.0-1 all [installed,automatic]
+node-etag/noble 1.8.1-3 all
+node-event-emitter/noble 0.3.5-4 all
+node-eventemitter2/noble 6.4.7-1 all
+node-eventemitter3/noble 4.0.7-3 all
+node-events/noble,now 3.3.0+~3.0.0-3 all [installed,automatic]
+node-eventsource/noble 2.0.2+~1.1.10-1 all
+node-everything.js/noble 1.0.3-2 all
+node-evp-bytestokey/noble 1.0.3-11 all
+node-execa/noble 6.1.0+dfsg1+~cs16.0.4-9 all
+node-exit-hook/noble 3.1.2-1 all
+node-exit/noble 0.1.2+~0.1.31-2 all
+node-expand-brackets/noble 4.0.0-3 all
+node-expand-tilde/noble 2.0.2+~cs2.0.3-2 all
+node-expect.js/noble 0.3.1+dfsg+~0.3.29-2 all
+node-exports-loader/noble 4.0.0-1 all
+node-express/noble 4.19.2+~cs8.36.21-1 all
+node-extend-shallow/noble 3.0.2-3 all
+node-extend/noble 3.0.2+~3.0.1-3 all
+node-external-editor/noble 3.1.0+dfsg-2 all
+node-extglob/noble 3.0.0-4 all
+node-extract-zip/noble 2.0.1+ds-4 all
+node-extsprintf/noble 1.4.1+~1.4.1-2 all
+node-falafel/noble 2.2.5-1 all
+node-fancy-log/noble,now 1.3.3+~cs1.3.1-2 all [installed,automatic]
+node-fast-deep-equal/noble,now 3.1.3-3 all [installed,automatic]
+node-fast-json-patch/noble 3.1.1+ds-2 all
+node-fast-json-stable-stringify/noble 2.1.0-2 all
+node-fast-levenshtein/noble,now 2.0.6+ds-3 all [installed,automatic]
+node-fast-safe-stringify/noble 2.1.1+~2.3.1-2ubuntu1 all
+node-fastcgi-stream/noble 1.0.0-2 all
+node-fastcgi/noble 1.3.3-8 all
+node-faye-websocket/noble 0.11.4-2 all
+node-fbjs/noble 3.0.5-1 all
+node-fd-slicer/noble 1.1.0+repack1-3 all
+node-fecha/noble 4.2.1+dfsg1-3 all
+node-fetch/noble,now 3.3.2+~cs11.4.11-1 all [installed,automatic]
+node-file-entry-cache/noble,now 6.0.1+~3.0.4+~2.0.0+~1.0.0+~2.0.1-1 all [installed,automatic]
+node-file-loader/noble 6.2.0-3 all
+node-file-sync-cmp/noble 0.1.1-3 all
+node-file-uri-to-path/noble 2.0.0-2 all
+node-filename-regex/noble 2.0.1-3 all
+node-filesize/noble 10.0.3+dfsg-2 all
+node-fill-range/noble,now 7.0.1+~7.0.0-1 all [installed,automatic]
+node-finalhandler/noble 1.2.0+~1.1.1-2 all
+node-find-cache-dir/noble,now 3.3.2+~3.2.1-1 all [installed,automatic]
+node-find-root/noble 1.1.0~11.10.7+ds1+~cs8.3.3-4 all
+node-find-up/noble,now 6.3.0-7 all [installed,automatic]
+node-findit2/noble 2.2.3-8 all
+node-findup-sync/noble 4.0.0-5 all
+node-fined/noble 1.2.0+~cs4.5.1-3 all
+node-first-chunk-stream/noble 4.0.0-2 all
+node-flagged-respawn/noble 1.0.1-5 all
+node-flat-cache/noble,now 3.0.4~6.0.1+~3.0.4+~2.0.0+~1.0.0+~2.0.1-1 all [installed,automatic]
+node-flatted/noble,now 3.2.7~ds-1 all [installed,automatic]
+node-flow-remove-types/noble 1.2.3-7 all
+node-flush-write-stream/noble 2.0.0-6 all
+node-fn-name/noble 3.0.0-3 all
+node-fn.name/noble 1.1.0-7 all
+node-follow-redirects/noble 1.15.6+~1.14.4-1 all
+node-for-in/noble,now 1.0.2-4 all [installed,automatic]
+node-for-own/noble,now 1.0.0-3 all [installed,automatic]
+node-foreground-child/noble,now 3.1.1-2 all [installed,automatic]
+node-forever-agent/noble 0.6.1+~0.6.1-2 all
+node-form-data/noble 4.0.0-1 all
+node-formidable/noble 3.2.5+20221017git493ec88+~cs4.0.9-1 all
+node-fortawesome-fontawesome-common-types/noble 6.4.2+ds1-1 all
+node-fortawesome-fontawesome-free/noble 6.4.2+ds1-1 all
+node-fortawesome-fontawesome-svg-core/noble 6.4.2+ds1-1 all
+node-fortawesome-free-brands-svg-icons/noble 6.4.2+ds1-1 all
+node-fortawesome-free-regular-svg-icons/noble 6.4.2+ds1-1 all
+node-fortawesome-free-solid-svg-icons/noble 6.4.2+ds1-1 all
+node-fragment-cache/noble 0.2.1-4 all
+node-free-style/noble 4.1.0-2 all
+node-fresh/noble 0.5.2+~0.5.0-2 all
+node-from2/noble 2.3.0+~2.3.1-2 all
+node-fs-exists-sync/noble 0.1.0-2 all
+node-fs-extra/noble 10.1.0+~9.0.13-1 all
+node-fs-readdir-recursive/noble,now 1.1.0+~1.1.0-1 all [installed,automatic]
+node-fs-write-stream-atomic/noble,now 1.0.10-6 all [installed,automatic]
+node-fs.realpath/noble,now 1.0.0-3 all [installed,automatic]
+node-fstream-ignore/noble 1.0.5-4 all
+node-fstream/noble 1.0.12-7 all
+node-function-bind/noble,now 1.1.2+~cs2.1.14-1 all [installed,automatic]
+node-functional-red-black-tree/noble,now 1.0.1+20181105-7 all [installed,automatic]
+node-fuzzaldrin-plus/noble 0.6.0+dfsg+~0.6.2-3 all
+node-fuzzysort/noble 1.1.1-1.1 all
+node-gauge/noble,now 4.0.4-2 all [installed,automatic]
+node-generator-supported/noble 0.0.1-2 all
+node-generic-pool/noble 3.9.0-2 all
+node-genfun/noble 5.0.0-2 all
+node-geojson/noble 0.5.0+~7946.0.10-2 all
+node-get-caller-file/noble,now 2.0.5+~cs1.1.1-4 all [installed,automatic]
+node-get-func-name/noble 2.0.2-1 all
+node-get-stdin/noble 8.0.0-2 all
+node-get-stream/noble,now 6.0.1-1 all [installed,automatic]
+node-get-uri/noble 6.0.1~0~2023071921-5 all
+node-get-value/noble,now 1:3.0.1-4 all [installed,automatic]
+node-get/noble 1.4.0-4 all
+node-getobject/noble 1.1.1-1 all
+node-getpass/noble 0.1.7-3 all
+node-gettext-parser/noble 4.2.0+~4.0.1-2 all
+node-gettext.js/noble 0.7.0-3 all
+node-github-url-from-git/noble 1.5.0+~1.5.1-1 all
+node-gitlab-favicon-overlay/noble 2.0.0-2 all
+node-glob-base/noble 0.3.0+~0.3.0-2 all
+node-glob-parent/noble,now 6.0.2+~5.1.1-2 all [installed,automatic]
+node-glob-stream/noble 7.0.0+~6.1.1-2 all
+node-glob/noble,now 8.1.0+~cs8.5.15-1 all [installed,automatic]
+node-global-modules/noble 2.0.0-3 all
+node-global-prefix/noble 3.0.0+~3.0.0-1 all
+node-global/noble 4.13.1+really-4.4.0~4.13.1+~cs12.12.4-2 all
+node-globals/noble,now 13.23.0-1 all [installed,automatic]
+node-globby/noble,now 13.1.3+~cs16.25.40-2 all [installed,automatic]
+node-globule/noble 1.3.4+~1.1.4-1 all
+node-glogg/noble 2.0.0-2 all
+node-googlediff/noble 0.1.0-3 all
+node-got/noble,now 11.8.5+~cs58.13.36-3 all [installed,automatic]
+node-graceful-fs/noble,now 4.2.10-1 all [installed,automatic]
+node-graphlibrary/noble 2.2.0+really2.1.8+repack-3 all
+node-graphql/noble 16.8.1-2 all
+node-growl/noble,now 1.10.5-4 all [installed,automatic]
+node-grunt-babel/noble 8.0.0-6 all
+node-grunt-cli/noble 1.4.3+~3.0.1-1 all
+node-grunt-contrib-clean/noble 2.0.1-1 all
+node-grunt-contrib-coffee/noble 2.1.0-1 all
+node-grunt-contrib-concat/noble 2.1.0-2 all
+node-grunt-contrib-copy/noble 1.0.0-5 all
+node-grunt-contrib-internal/noble 8.0.2-3 all
+node-grunt-contrib-nodeunit/noble 4.0.0-2 all
+node-grunt-contrib-requirejs/noble 1.0.0-8 all
+node-grunt-contrib-uglify/noble 5.2.2+dfsg-1 all
+node-grunt-known-options/noble 1.1.1-4 all
+node-grunt-legacy-log-utils/noble 1.0.0-5 all
+node-grunt-legacy-log/noble 2.0.0-4 all
+node-grunt-legacy-util/noble 2.0.1-2 all
+node-grunt-replace/noble 2.0.2-2 all
+node-grunt-sass/noble 3.1.0-5build1 all
+node-grunt-webpack/noble 4.0.3-1 all
+node-gulp-babel/noble 8.0.0-5 all
+node-gulp-changed/noble 4.0.3-3 all
+node-gulp-coffee/noble 3.0.2-1ubuntu1 all
+node-gulp-concat/noble 2.6.1+~0.0.15+git20190329.179bb8c+~1.0.3-6 all
+node-gulp-flatten/noble 0.4.0-5 all
+node-gulp-load-plugins/noble 2.0.8-1 all
+node-gulp-mocha/noble 8.0.0-2 all
+node-gulp-newer/noble 1.4.0-1 all
+node-gulp-plumber/noble 1.2.1-2 all
+node-gulp-postcss/noble 9.0.1-2 all
+node-gulp-rename/noble 2.0.0-2 all
+node-gulp-sass/noble 5.1.0-2 all
+node-gulp-sourcemaps/noble 3.0.0+~cs4.0.1-3 all
+node-gulp-tap/noble 2.0.0-3 all
+node-gulp-tsb/noble 4.0.5+~cs7.0.2-3 all
+node-gulp-util/noble 3.0.36+~cs7.1.15-2 all
+node-gulplog/noble 2.0.1-1 all
+node-gyp/noble,now 9.3.0-3 all [installed,automatic]
+node-gzip-size/noble 6.0.0-2 all
+node-har-schema/noble 2.0.0-6 all
+node-har-validator/noble 5.1.5-4 all
+node-has-ansi/noble 5.0.1+~5.0.0-1 all
+node-has-binary/noble 0.1.7-4 all
+node-has-cors/noble 1.1.0-2 all
+node-has-flag/noble,now 4.0.0-3 all [installed,automatic]
+node-has-gulplog/noble 0.1.0-2 all
+node-has-symbol-support-x/noble 1.4.1+dfsg-3 all
+node-has-to-string-tag-x/noble 1.4.1+dfsg-3 all
+node-has-unicode/noble,now 2.0.1-5 all [installed,automatic]
+node-has-value/noble,now 2.0.2-4 all [installed,automatic]
+node-has-values/noble,now 2.0.1-4 all [installed,automatic]
+node-has-yarn/noble 2.1.0-2 all
+node-hash-base/noble 3.1.0-2 all
+node-hash-sum/noble 2.0.0+~1.0.0-1 all
+node-hash-test-vectors/noble 1.3.2+dfsg-4.1 all
+node-hash.js/noble 1.1.7-4 all
+node-hashish/noble 0.0.4+git34dfe43-4 all
+node-hawk/noble 9.0.1-1 all
+node-he/noble 1.2.0-4 all
+node-help-me/noble 5.0.0-1 all
+node-highlight.js/noble 9.18.5+dfsg1-2 all
+node-hmac-drbg/noble 1.0.1-5 all
+node-hoek/noble 10.0.1+~cs12.0.0-1 all
+node-hoist-non-react-statics/noble 4.13.1+really-3.3.2~4.13.1+~cs12.12.4-2 all
+node-hook-std/noble 2.0.0-3 all
+node-hooker/noble 0.2.3+~0.2.31-2 all
+node-hosted-git-info/noble,now 6.1.1-2 all [installed,automatic]
+node-hsluv/noble 0.1.0+dfsg1-3 all
+node-html-comment-regex/noble 1.1.2-2 all
+node-html-loader/noble 4.2.0-2 all
+node-html-minifier-terser/noble 7.2.0~5.5.3+repack2-1 all
+node-html-webpack-plugin/noble 5.5.3+repack2-1 all
+node-html5-qrcode/noble 2.3.8+repack-5 all
+node-html5shiv/noble 3.7.3+dfsg-5 all
+node-htmlescape/noble 1.1.1-5 all
+node-htmlparser2/noble 9.0.0-1 all
+node-http-errors/noble 2.0.0+~1.8.2-2 all
+node-http-proxy-agent/noble,now 7.0.0~0~2023071921-5 all [installed,automatic]
+node-http-proxy/noble 1.18.1-8 all
+node-http-server/noble 14.1.1+~cs3.14.34-2 all
+node-http-signature/noble 1.3.6-2 all
+node-https-browserify/noble 1.0.0-2 all
+node-https-proxy-agent/noble,now 7.0.1~0~2023071921-5 all [installed,automatic]
+node-i18next-browser-languagedetector/noble 7.2.0-1build2 all
+node-i18next-http-backend/noble 2.4.1+ds-2build2 all
+node-i18next/noble 23.7.6-1build2 all
+node-iconv-lite/noble,now 0.6.3-3 all [installed,automatic]
+node-iconv/noble 3.0.1+~3.0.0-1build4 amd64
+node-icss-replace-symbols/noble 1.1.0-4 all
+node-icss-utils/noble,now 5.1.0+~5.1.0-1 all [installed,automatic]
+node-ieee754/noble,now 1.2.1-3 all [installed,automatic]
+node-iferr/noble,now 1.0.2+~1.0.2-1 all [installed,automatic]
+node-ignore-by-default/noble 2.1.0-1 all
+node-ignore/noble,now 5.2.1-1 all [installed,automatic]
+node-imagemagick/noble 0.1.3-2 all
+node-immediate/noble 3.3.0+dfsg-3 all
+node-immutable-tuple/noble 0.4.10-11 all
+node-immutable/noble 4.3.4-1 all
+node-import-lazy/noble 4.0.0-2 all
+node-imports-loader/noble 0.8.0-6 all
+node-imurmurhash/noble,now 0.1.4+dfsg+~0.1.1-2 all [installed,automatic]
+node-indent-string/noble,now 4.0.0-2 all [installed,automatic]
+node-inflected/noble 2.1.0-5 all
+node-inflection/noble 2.0.1-1 all
+node-inflight/noble,now 1.0.6-2 all [installed,automatic]
+node-inherits/noble,now 2.0.4-6 all [installed,automatic]
+node-ini/noble,now 3.0.1-2 all [installed,automatic]
+node-inline-source-map/noble 0.6.2~git-7 all
+node-inquirer/noble 8.2.5+~cs26.8.16-1 all
+node-interpret/noble,now 2.2.0-3 all [installed,automatic]
+node-invariant/noble 2.2.4-3 all
+node-invert-kv/noble 3.0.1-2 all
+node-inwasm-runtime/noble 0.0.13~git20230419+dfsg-3build1 all
+node-ip-address/noble 8.1.0-2 all
+node-ip-regex/noble,now 4.3.0+~4.1.1-1 all [installed,automatic]
+node-ip/noble,now 2.0.0+~1.1.0-1ubuntu1 all [installed,automatic]
+node-ipaddr.js/noble 2.1.0~dfsg-1 all
+node-irregular-plurals/noble 3.3.0-1 all
+node-is-accessor-descriptor/noble 3.0.1-3 all
+node-is-arrayish/noble,now 0.3.2-3 all [installed,automatic]
+node-is-binary-path/noble,now 2.1.0-5 all [installed,automatic]
+node-is-buffer/noble,now 2.0.5-2 all [installed,automatic]
+node-is-builtin-module/noble 3.2.0-2 all
+node-is-data-descriptor/noble 1.0.0+~1.0.0-1 all
+node-is-descriptor/noble,now 3.0.0-2 all [installed,automatic]
+node-is-directory/noble 0.3.1-3 all
+node-is-docker/noble 3.0.0-6 all
+node-is-dotfile/noble 2.0.0-1 all
+node-is-equal-shallow/noble 0.1.3-4 all
+node-is-extendable/noble,now 1.0.1-3 all [installed,automatic]
+node-is-extglob/noble,now 2.1.1-5 all [installed,automatic]
+node-is-finite/noble 1.1.0-2 all
+node-is-generator-fn/noble 2.1.0-2 all
+node-is-glob/noble,now 4.0.3-2 all [installed,automatic]
+node-is-module/noble 1.0.0-4 all
+node-is-negated-glob/noble 1.0.0+~1.0.0-1 all
+node-is-node/noble 1.0.2-2 all
+node-is-npm/noble 5.0.0-2 all
+node-is-number/noble,now 7.0.0-4 all [installed,automatic]
+node-is-obj/noble 2.0.0-2 all
+node-is-object/noble 1.0.2+~1.0.2-2 all
+node-is-path-cwd/noble,now 2.2.0-2 all [installed,automatic]
+node-is-path-in-cwd/noble 3.0.0-2 all
+node-is-path-inside/noble,now 3.0.3-2 all [installed,automatic]
+node-is-plain-obj/noble,now 3.0.0-2 all [installed,automatic]
+node-is-plain-object/noble,now 5.0.0-7 all [installed,automatic]
+node-is-primitive/noble,now 3.0.1-3 all [installed,automatic]
+node-is-promise/noble 4.0.0-2 all
+node-is-redirect/noble 1.0.0-3 all
+node-is-reference/noble 1.2.1-7 all
+node-is-retry-allowed/noble 2.2.0-1 all
+node-is-stream/noble,now 3.0.0-4 all [installed,automatic]
+node-is-typedarray/noble,now 1.0.0-4 all [installed,automatic]
+node-is-unc-path/noble 1.0.0-5 all
+node-is-valid-glob/noble 1.0.0-5 all
+node-is-windows/noble,now 1.0.2+~cs1.0.0-1 all [installed,automatic]
+node-is-wsl/noble 2.2.0-3 all
+node-isarray/noble,now 2.0.5-4 all [installed,automatic]
+node-iscroll/noble 5.2.0+dfsg1-2 all
+node-isexe/noble,now 2.0.0+~2.0.1-5 all [installed,automatic]
+node-ismobilejs/noble 0.5.0-4 all
+node-isobject/noble,now 4.0.0-2 all [installed,automatic]
+node-isomorphic-fetch/noble 3.0.0-3 all
+node-isomorphic.js/noble 0.2.5-1 all
+node-isstream/noble 0.1.2+dfsg+~0.1.0-1 all
+node-istanbul/noble,now 0.4.5+repack10+~cs98.25.59-2 all [installed,automatic]
+node-istextorbinary/noble 6.0.0+~cs9.33.0-3 all
+node-isurl/noble 4.0.2+~1.0.2-1 all
+node-jake/noble 10.8.5+~1.0.4-3 all
+node-jasmine/noble 4.5.0+~cs8.8.0-1 all
+node-jed/noble 1.1.1-4 all
+node-jest-debbundle/noble,now 29.6.2~ds1+~cs73.45.28-5 all [installed,automatic]
+node-jest-react/noble 0.13.1~18.2.0+dfsg+~cs88.72.117-1 all
+node-jest-worker/noble,now 29.6.2~ds1+~cs73.45.28-5 all [installed,automatic]
+node-jison-lex/noble 0.3.4-4 all
+node-jju/noble 1.4.0-2 all
+node-jmespath/noble 0.15.0+dfsg-4 all
+node-jose-browser-runtime/noble 4.11.4-1 all
+node-jose/noble 4.11.4-1 all
+node-jquery-mousewheel/noble 1:3.1.13-5 all
+node-jquery-textcomplete/noble 1.8.5+dfsg-8 all
+node-jquery-ui/noble 1.13.2+dfsg-1 all
+node-jquery-ujs/noble 1.2.3-2 all
+node-jquery/noble 3.6.1+dfsg+~3.5.14-1 all
+node-js-beautify/noble 1.14.7+dfsg+~cs1.28.6-1 all
+node-js-cookie/noble 3.0.1+~3.0.0-3 all
+node-js-sdsl/noble 4.1.4-3 all
+node-js-tokens/noble,now 8.0.0-2 all [installed,automatic]
+node-js-yaml/noble,now 4.1.0+dfsg+~4.0.5-7 all [installed,automatic]
+node-jsan/noble 3.1.14+~3.1.3-1 all
+node-jsbn/noble 1.1.0+~1.2.29-1 all
+node-jschardet/noble 3.0.0+dfsg+~1.4.0-3 all
+node-jsdoc2/noble 2.4.0-3 all
+node-jsdom/noble 20.0.3+~cs124.18.21-4 all
+node-jsesc/noble,now 3.0.2+~3.0.1-1 all [installed,automatic]
+node-json-buffer/noble,now 3.0.1+~3.0.0-1 all [installed,automatic]
+node-json-loader/noble 0.5.7-5 all
+node-json-localizer/noble 0.0.3-2 all
+node-json-parse-better-errors/noble,now 1.0.2+~cs3.3.1-2 all [installed,automatic]
+node-json-parse-helpfulerror/noble 1.0.3-4 all
+node-json-schema-merge-allof/noble 0.8.1+~cs9.16.23-2 all
+node-json-schema-traverse/noble,now 1.0.0-3 all [installed,automatic]
+node-json-schema/noble,now 0.4.0+~7.0.11-1 all [installed,automatic]
+node-json-stable-stringify/noble,now 1.0.2+repack1+~cs1.0.34-2 all [installed,automatic]
+node-json-stringify-safe/noble 5.0.1+repack-6 all
+node-json2module/noble 0.0.3-3 all
+node-json5/noble,now 2.2.3+dfsg-1build1 all [installed,automatic]
+node-jsonfile/noble 6.1.0-4 all
+node-jsonify/noble,now 0.0.1-1 all [installed,automatic]
+node-jsonminify/noble 0.4.2+dfsg1-1 all
+node-jsonparse/noble,now 1.3.1-10 all [installed,automatic]
+node-jsonselect/noble 0.4.0+dfsg3-3 all
+node-jsonstream/noble 1.3.5-3 all
+node-jsprim/noble 2.0.1-1 all
+node-jss-plugin-cache/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-camel-case/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-compose/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-default-unit/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-expand/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-extend/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-global/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-isolate/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-nested/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-props-sort/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-rule-value-function/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-rule-value-observable/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-template/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-plugin-vendor-prefixer/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-preset-default/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss-starter-kit/noble 10.10.0+ds3+~0.3.1-1 all
+node-jss/noble 10.10.0+ds3+~0.3.1-1 all
+node-jstimezonedetect/noble 1.0.7+~1.0.3-1 all
+node-jszip-utils/noble 0.1.0+dfsg-2 all
+node-jszip/noble 3.10.1+dfsg-2 all
+node-juggle-resize-observer/noble 3.4.0+ds1-2 all
+node-keese/noble 1.1.1-4 all
+node-kew/noble 0.7.0-2 all
+node-keygrip/noble 1.1.0+~cs3.0.8-1 all
+node-keypress/noble 0.2.1-2 all
+node-kind-of/noble,now 6.0.3+dfsg-2 all [installed,automatic]
+node-klaw/noble 4.0.1-2 all
+node-knockout-sortable/noble 1.2.0+dfsg-3 all
+node-knockout/noble 3.5.1+ds-1 all
+node-kuler/noble 2.0.0-4 all
+node-labeled-stream-splicer/noble 2.0.2+~2.0.0-2 all
+node-lastfm/noble 0.9.4-1 all
+node-latest-version/noble 7.0.0-3 all
+node-lazy-cache/noble 2.0.2-2 all
+node-lazy-debug-legacy/noble 0.0.1-3 all
+node-lazy-property/noble 1.0.0+repack-1 all
+node-lazystream/noble 1.0.1-1 all
+node-lcid/noble 3.1.1-3 all
+node-lcov-parse/noble,now 1.0.0+20170612git80d039574ed9-6 all [installed,automatic]
+node-ldapjs/noble 2.3.3+~cs4.5.6-1 all
+node-leaflet.markercluster/noble 1.5.3~dfsg-4 all
+node-leaflet/noble 1.7.1~dfsg-7 all
+node-leche/noble 2.3.0~dfsg-3 all
+node-less-loader/noble 11.1.0+~2.0.5-4 all
+node-less-plugin-clean-css/noble 1.5.1-4 all
+node-less/noble 3.13.0+dfsg-11 all
+node-leveldown/noble 5.6.0+dfsg-4 amd64
+node-leven/noble 4.0.0+~cs1.1.1-2 all
+node-levn/noble,now 0.4.1+dfsg-2 all [installed,automatic]
+node-lex-parser/noble 0.1.4-6 all
+node-lexical-scope/noble 1.2.0+dfsg1-7 all
+node-lezer-common/noble 1.2.1~1.4.13+~cs14.24.45-1 all
+node-lezer-cpp/noble 1.1.2~1.4.13+~cs14.24.45-1 all
+node-lezer-css/noble 1.1.8~1.4.13+~cs14.24.45-1 all
+node-lezer-generator/noble 1.7.0~1.4.13+~cs14.24.45-1 all
+node-lezer-html/noble 1.3.9~1.4.13+~cs14.24.45-1 all
+node-lezer-java/noble 1.1.1~1.4.13+~cs14.24.45-1 all
+node-lezer-javascript/noble 1.4.13+~cs14.24.45-1 all
+node-lezer-json/noble 1.0.2~1.4.13+~cs14.24.45-1 all
+node-lezer-markdown/noble 1.2.0~1.4.13+~cs14.24.45-1 all
+node-lezer-php/noble 1.0.2~1.4.13+~cs14.24.45-1 all
+node-lezer-python/noble 1.1.13~1.4.13+~cs14.24.45-1 all
+node-lezer-rust/noble 1.0.2~1.4.13+~cs14.24.45-1 all
+node-lezer-xml/noble 1.0.5~1.4.13+~cs14.24.45-1 all
+node-lib0/noble 0.2.85-2 all
+node-libpq/noble 1.8.12+~1.8.10-2build1 amd64
+node-libravatar/noble 3.0.0-3 all
+node-libs-browser/noble 2.2.1-4 all
+node-license-webpack-plugin/noble 4.0.2-2 all
+node-lie/noble 3.3.0+dfsg-4 all
+node-liftoff/noble 3.1.0-6 all
+node-lightgallery/noble 1.9.0+dfsg-1 all
+node-llhttp/noble 9.1.3~5.26.3+dfsg1+~cs23.10.12-2 all
+node-load-grunt-tasks/noble 4.0.0-1 all
+node-load-json-file/noble 7.0.1-1 all
+node-loader-runner/noble,now 4.3.0-1 all [installed,automatic]
+node-loader-utils/noble 2.0.4-1 all
+node-locate-character/noble 2.0.5+repack-5 all
+node-locate-path/noble,now 7.1.1-2 all [installed,automatic]
+node-lockfile/noble 1.0.4+~1.0.2-3 all
+node-lodash-packages/noble,now 4.17.21+dfsg+~cs8.31.198.20210220-9 all [installed,automatic]
+node-lodash-reescape/noble 3.0.0-2 all
+node-lodash-reevaluate/noble 3.0.0-3 all
+node-lodash/noble,now 4.17.21+dfsg+~cs8.31.198.20210220-9 all [installed,automatic]
+node-log-driver/noble,now 1.2.7+git+20180219+bba1761737-7 all [installed,automatic]
+node-log4js/noble 6.9.1+~cs8.4.19-1 all
+node-logform/noble 2.4.2-2 all
+node-long/noble 5.2.3-3 all
+node-loose-envify/noble 1.4.0+dfsg1-4 all
+node-loud-rejection/noble 2.2.0-3 all
+node-lowercase-keys/noble,now 2.0.0-2 all [installed,automatic]
+node-lru-cache/noble,now 7.14.1-1 all [installed,automatic]
+node-lumino/noble 2023.7.27-1 all
+node-lunr/noble 2.3.9~dfsg-2 all
+node-luxon/noble 3.4.4-2 all
+node-lynx/noble 0.2.1-5 all
+node-macaddress/noble 0.5.3-2 all
+node-magic-string/noble 0.30.5-1 all
+node-make-dir/noble,now 3.1.0-3 all [installed,automatic]
+node-make-error/noble 1.3.7-3 all
+node-map-cache/noble 0.2.2-6 all
+node-map-obj/noble 4.3.0-1 all
+node-map-visit/noble,now 1.0.0-4 all [installed,automatic]
+node-map2tree/noble 3.0.0~3.13.1~git20230831-2 all
+node-markdown-it/noble 22.2.3+dfsg+~12.2.3-2 all
+node-markdown-to-jsx/noble 7.2.0+dfsg-2 all
+node-marked-man/noble 1.3.5-1 all
+node-marked/noble 4.2.3+ds+~4.0.7-3 all
+node-match-at/noble 0.1.1-2 all
+node-matcher/noble 5.0.0-2 all
+node-mathjax-full/noble 3.2.2+~cs4.2.1-2 all
+node-matrix-js-sdk/noble 9.11.0+~cs9.9.16-2 all
+node-md5-hex/noble 4.0.0-2 all
+node-md5-o-matic/noble 0.1.1-5 all
+node-md5.js/noble 1.3.5-4 all
+node-mdn-browser-compat-data/noble 5.2.20+~3.33.0-2 all
+node-mdn-data/noble 2.1.0-1 all
+node-media-typer/noble 1.1.0-2 all
+node-mem/noble 9.0.2+~cs4.2.0-2 all
+node-memfs/noble,now 3.4.12+~cs1.0.3-1 all [installed,automatic]
+node-memory-fs/noble,now 0.5.0+~0.3.3-2 all [installed,automatic]
+node-meow/noble 8.0.0+~cs3.21.0-5 all
+node-merge-descriptors/noble 1.0.1-3 all
+node-merge-stream/noble,now 2.0.0+~1.1.2-2 all [installed,automatic]
+node-merge/noble 2.1.1+ds-4 all
+node-mersenne/noble 0.0.4-4 all
+node-mess/noble 0.1.2+~0.1.29-1 all
+node-methods/noble 1.1.2+~1.1.1-1 all
+node-micromatch/noble,now 4.0.5+~4.0.2-1 all [installed,automatic]
+node-miller-rabin/noble 4.0.1-9 all
+node-mime-types/noble,now 2.1.35-2 all [installed,automatic]
+node-mime/noble,now 3.0.0+dfsg+~cs6.97.2-1 all [installed,automatic]
+node-mimic-fn/noble 4.0.0-5 all
+node-mimic-response/noble,now 3.1.0-8 all [installed,automatic]
+node-min-document/noble 2.19.0+~cs2.20.2-2 all
+node-mini-css-extract-plugin/noble 2.4.6+~2.4.0-4 all
+node-minimalistic-crypto-utils/noble 1.0.1-6 all
+node-minimatch/noble,now 9.0.3-4build5 all [installed,automatic]
+node-minimist/noble,now 1.2.8+~cs5.3.5-1 all [installed,automatic]
+node-minipass/noble,now 3.3.6+~cs9.4.19-1 all [installed,automatic]
+node-miragejs/noble 0.1.46+~cs5.6.11-1 all
+node-mississippi/noble 4.0.0-1 all
+node-mithril/noble 1.1.6-2.1 all
+node-mixin-deep/noble,now 2.0.1-3 all [installed,automatic]
+node-mj-context-menu/noble 0.9.1+ds-2 all
+node-mkdirp-classic/noble 0.5.3-3 all
+node-mkdirp/noble,now 1.0.4+~1.0.2-4 all [installed,automatic]
+node-mocha-lcov-reporter/noble 1.3.0-4 all
+node-mock-fs/noble 5.1.4-1 all
+node-mocks-http/noble 1.11.0-2 all
+node-modern-syslog/noble 1.2.0-4build3 amd64
+node-module-deps/noble 6.2.3-3 all
+node-moment-timezone/noble 0.5.40+dfsg-2~ubuntu2+2022g all
+node-moment/noble 2.29.4+ds-1 all
+node-mongodb/noble 3.6.4+~cs11.13.19-2 all
+node-morgan/noble 1.10.0+~1.9.3-1 all
+node-mousetrap/noble 1.6.5~ds+~1.6.8-1 all
+node-move-concurrently/noble,now 1.0.1-5 all [installed,automatic]
+node-mqtt-connection/noble 4.1.0-4 all
+node-mqtt-packet/noble 9.0.0-1 all
+node-mqtt/noble 4.3.7-3 all
+node-ms/noble,now 2.1.3+~cs0.7.31-3 all [installed,automatic]
+node-multimatch/noble 5.0.0-2 all
+node-multiparty/noble 4.2.3-2 all
+node-multipipe/noble 4.0.0-2 all
+node-music-library-index/noble 2.1.0-3 all
+node-mustache/noble 3.0.1-1 all
+node-mutate-fs/noble 2.1.1-2 all
+node-mute-stream/noble,now 0.0.8+~0.0.1-3 all [installed,automatic]
+node-mysql/noble 2.18.1+~2.3.2-2 all
+node-mysticatea-eslint-plugin/noble 12.0.0~ds-1 all
+node-mz/noble 2.7.0+~cs2.7.4-1 all
+node-n3/noble,now 1.16.3+~1.2.3+~1.10.4-1 all [installed,automatic]
+node-nan/noble 2.18.0-1ubuntu1 all
+node-natural-sort/noble 1.0.0-5 all
+node-ncp/noble 2.0.0-3 all
+node-negotiator/noble,now 0.6.3+~0.6.1-1 all [installed,automatic]
+node-neo-async/noble,now 2.6.2+~cs3.0.0-3 all [installed,automatic]
+node-netmask/noble 2.0.2+~cs2.0.1-1 all
+node-nock/noble 13.3.3-1 all
+node-node-dir/noble 0.1.17+~0.0.34-1 all
+node-node-pty/noble 1.0.0+ds1+~6.3.0-1build1 amd64
+node-node-rest-client/noble 3.1.1-2 all
+node-node-rsa/noble 1.1.1-4 all
+node-node-sass/noble 9.0.0+git20240131.6081731+dfsg-1 amd64
+node-nodemailer/noble 6.9.4+~6.4.9-4 all
+node-nomnom/noble 1.8.1-2 all
+node-nopt/noble,now 5.0.0-4 all [installed,automatic]
+node-normalize-git-url/noble 3.0.2-2 all
+node-normalize-package-data/noble,now 4.0.1+~2.4.1-1 all [installed,automatic]
+node-normalize-path/noble,now 3.0.0+~3.0.0-1 all [installed,automatic]
+node-normalize-range/noble 0.1.2-3 all
+node-normalize.css/noble 8.0.1-5 all
+node-nouislider-doc/noble 15.7.1+ds-1 all
+node-nouislider/noble 15.7.1+ds-1 all
+node-npm-bundled/noble,now 2.0.1-2 all [installed,automatic]
+node-npm-package-arg/noble,now 10.0.0+~3.0.0-2 all [installed,automatic]
+node-npm-run-path/noble,now 5.1.0+~4.0.0-8 all [installed,automatic]
+node-npmlog/noble,now 7.0.1+~4.1.4-1 all [installed,automatic]
+node-npmrc/noble 1.1.1-3 all
+node-nth-check/noble 2.1.1-3 all
+node-number-allocator/noble 1.0.14-1 all
+node-number-is-nan/noble 2.0.0-3 all
+node-nunjucks/noble 3.2.3+dfsg+~cs1.0.1-3 all
+node-nwmatcher/noble 1.4.4-3 all
+node-oauth-1.0a/noble 2.2.6-3 all
+node-oauth-sign/noble 0.9.0-4 all
+node-obj-util/noble 2.0.0-2 all
+node-object-assign/noble,now 4.1.1-7 all [installed,automatic]
+node-object-copy/noble 1.0.0-2 all
+node-object-inspect/noble,now 1.12.2+~cs1.8.1-1 all [installed,automatic]
+node-object-key/noble 0.2.0-5 all
+node-object-path/noble 0.11.8+~0.11.1-2 all
+node-object-visit/noble,now 1.0.1-5 all [installed,automatic]
+node-object.omit/noble 3.0.0-2 all
+node-on-finished/noble 2.4.1+~1.1.1-1 all
+node-on-headers/noble 1.0.2-2 all
+node-once/noble,now 1.4.1-1 all [installed,automatic]
+node-one-time/noble 1.0.0-3 all
+node-open/noble 8.4.0-6 all
+node-opencv/noble 7.0.0+git20200316.f0a03a4b-1build6 amd64
+node-opener/noble,now 1.5.2+~1.4.0-1 all [installed,automatic]
+node-openpgp-asmcrypto.js/noble 2.3.3~0-3 all
+node-openpgp-seek-bzip/noble 1.0.5-3 all
+node-opentip/noble 2.4.6-3 all
+node-optimist/noble,now 0.6.1+~0.0.30-2 all [installed,automatic]
+node-optionator/noble,now 0.9.1+dfsg+~cs1.2.3-1 all [installed,automatic]
+node-orchestrator/noble 0.3.8-2 all
+node-ordered-read-streams/noble 1.0.1-6 all
+node-original/noble 1.0.2-2 all
+node-os-browserify/noble 0.3.0-4 all
+node-os-locale/noble 6.0.2-1 all
+node-os-tmpdir/noble 1.0.2-4 all
+node-osenv/noble,now 0.1.5+~0.1.1-1 all [installed,automatic]
+node-output-file-sync/noble 2.0.1-3 all
+node-p-cancelable/noble,now 2.1.1-1 all [installed,automatic]
+node-p-finally/noble 2.0.1-2 all
+node-p-is-promise/noble 3.0.0-2 all
+node-p-limit/noble,now 4.0.0+~cs4.0.0-5 all [installed,automatic]
+node-p-locate/noble,now 6.0.0-12 all [installed,automatic]
+node-p-map/noble,now 4.0.0+~3.1.0+~3.0.1-1 all [installed,automatic]
+node-p-timeout/noble 4.1.0-2 all
+node-pac-proxy-agent/noble 7.0.0~0~2023071921-5 all
+node-pac-resolver/noble 7.0.0~0~2023071921-5 all
+node-package-json/noble 8.1.1-1 all
+node-package-preamble/noble 0.1.0-5 all
+node-package/noble 1.0.1-3 all
+node-pako/noble 2.1.0+ds-1 all
+node-parallel-transform/noble 1.2.0+~1.1.1-1 all
+node-parents/noble 1.0.1+~1.0.1-1 all
+node-parse-asn1/noble 5.1.6-2 all
+node-parse-base64vlq-mappings/noble 0.1.4-7 all
+node-parse-filepath/noble 1.0.2+~1.0.0-2 all
+node-parse-glob/noble 3.0.4+dfsg-4 all
+node-parse-json/noble,now 5.2.0+~cs5.1.7-1 all [installed,automatic]
+node-parse-ms/noble 3.0.0-2 all
+node-parse-srcset/noble 1.0.2-4 all
+node-parse5-html-rewriting-stream/noble 7.1.2+dfsg-2 all
+node-parse5-htmlparser2-tree-adapter/noble 7.1.2+dfsg-2 all
+node-parse5-parser-stream/noble 7.1.2+dfsg-2 all
+node-parse5-plain-text-conversion-stream/noble 7.1.2+dfsg-2 all
+node-parse5-sax-parser/noble 7.1.2+dfsg-2 all
+node-parse5/noble 7.1.2+dfsg-2 all
+node-parseurl/noble 1.3.3-2 all
+node-pascalcase/noble,now 1.0.0-1 all [installed,automatic]
+node-passport/noble 0.6.0+~1.0.0-2 all
+node-path-browserify/noble 1.0.1-3 all
+node-path-dirname/noble,now 1.0.2-2 all [installed,automatic]
+node-path-exists/noble,now 5.0.0-8 all [installed,automatic]
+node-path-is-absolute/noble,now 2.0.0-2 all [installed,automatic]
+node-path-is-inside/noble,now 1.0.2+~1.0.0-1 all [installed,automatic]
+node-path-root-regex/noble 0.1.2-2 all
+node-path-root/noble 0.1.1-3 all
+node-path-to-regexp/noble 6.2.1-1 all
+node-path-type/noble,now 4.0.0-3 all [installed,automatic]
+node-pathval/noble 1.1.1+~1.1.0-1 all
+node-pause/noble 0.1.0+~0.1.3-1 all
+node-pbkdf2/noble 3.1.2-3 all
+node-peek-readable/noble 3.1.4-1 all
+node-pegjs/noble 0.10.0+~0.10.3-2 all
+node-pend/noble 1.2.0-5 all
+node-performance-now/noble 2.1.0+debian-4 all
+node-pg-hstore/noble 2.3.4.4.g4f4530f-3 all
+node-pg/noble 8.8.0+~cs35.9.20-1 all
+node-picocolors/noble,now 1.0.0-4 all [installed,automatic]
+node-pify/noble,now 5.0.0+~cs5.0.1-1 all [installed,automatic]
+node-pikaday/noble 1.8.2+~1.7.6-2 all
+node-pinkie-promise/noble 2.0.1-4 all
+node-pinkie/noble 2.0.4-2 all
+node-pinkyswear/noble 2.2.3+dfsg-3 all
+node-pkg-dir/noble,now 5.0.0-2 all [installed,automatic]
+node-pkg-up/noble 4.0.0-2 all
+node-platform/noble 1.3.6-2 all
+node-playwright/noble 1.38.0+ds-3 all
+node-plugin-error/noble 1.0.1+repack-1 all
+node-plur/noble 4.0.0-2 all
+node-po2json/noble 0.4.5-3 all
+node-policyfile/noble 0.0.6+ds-4 all
+node-popper2/noble 2.11.2-6 all
+node-posix-character-classes/noble 1.0.0-3 all
+node-posix-getopt/noble 1.2.1-1 all
+node-postcss-cli/noble 10.1.0+~cs16.11.1-1 all
+node-postcss-load-config/noble 2.1.2+~cs6.0.0-1 all
+node-postcss-load-options/noble 1.2.0-6 all
+node-postcss-load-plugins/noble 2.3.0-6 all
+node-postcss-loader/noble 7.3.3+really+7.0.2-1 all
+node-postcss-modules-extract-imports/noble,now 3.0.0-2 all [installed,automatic]
+node-postcss-modules-values/noble,now 4.0.0+~4.0.0-1 all [installed,automatic]
+node-postcss-modules/noble 6.0.0+~cs5.1.3-2 all
+node-postcss-preset-evergreen/noble 0.2.1+~cs33.0.7-4 all
+node-postcss-reporter/noble 7.0.5+~7.0.1-1 all
+node-postcss-value-parser/noble,now 4.2.0-1 all [installed,automatic]
+node-postcss/noble,now 8.4.31+~cs8.0.26-1 all [installed,automatic]
+node-pre-gyp/noble 1.0.10+~2.0.1-2 all
+node-preact/noble 8.2.5-3 all
+node-prelude-ls/noble,now 1.2.1+dfsg-3 all [installed,automatic]
+node-prepend-http/noble 3.0.1-2 all
+node-preserve/noble 0.2.0-2 all
+node-pretty-bytes/noble 5.6.0+~5.2.0-1 all
+node-pretty-hrtime/noble 1.0.3+~1.0.1-1 all
+node-pretty-ms/noble 8.0.0-2 all
+node-prismjs/noble 1.29.0+dfsg+~1.26.0-1 all
+node-private/noble 0.1.8-7 all
+node-process-nextick-args/noble,now 2.0.1-3 all [installed,automatic]
+node-process/noble 0.11.10-3 all
+node-progress/noble,now 2.0.3-2 all [installed,automatic]
+node-promise-inflight/noble,now 1.0.1+~1.0.0-1 all [installed,automatic]
+node-promise-retry/noble,now 2.0.1-4 all [installed,automatic]
+node-promise/noble 8.3.0-2 all
+node-prompts/noble 2.4.2+~cs7.5.11-1 all
+node-promzard/noble,now 0.3.0-2 all [installed,automatic]
+node-prop-types/noble 15.8.1+~15.7.9+~cs1.1.1-1 all
+node-propagate/noble 2.0.1-4 all
+node-proper-lockfile/noble 4.1.2-4 all
+node-propget/noble 1.1.0-4 all
+node-prosemirror-markdown/noble 1.8.0-1 all
+node-prosemirror-model/noble 1.16.1+~cs1.1.5-2 all
+node-prosemirror-schema-basic/noble 1.1.2+~1.0.2-1 all
+node-prosemirror-schema-list/noble 1.1.6+~1.0.3-1 all
+node-prosemirror-state/noble 1.3.4-2 all
+node-prosemirror-test-builder/noble 1.0.5+~1.0.2-1 all
+node-prosemirror-transform/noble 1.2.8-5 all
+node-prosemirror-view/noble 1.23.13-2 all
+node-proto-list/noble 1.2.4-4 all
+node-proxy-addr/noble 2.0.7+~cs2.3.0-1 all
+node-proxy-agent/noble 6.3.0~0~2023071921-5 all
+node-proxy-from-env/noble 1.1.0+~1.0.1-1 all
+node-proxy/noble 2.1.1~0~2023071921-5 all
+node-proxyquire/noble 2.1.3+~1.0.1+~1.0.2-12 all
+node-prr/noble,now 1.0.1-3 all [installed,automatic]
+node-pruddy-error/noble 2.0.2-4 all
+node-pseudomap/noble 1.0.2-3 all
+node-pseudorandombytes/noble 2.0.0-2 all
+node-psl/noble 1.8.0+ds-9 all
+node-public-encrypt/noble 4.0.3-1 all
+node-puka/noble 1.0.1+dfsg-3 all
+node-pump/noble,now 3.0.0-5 all [installed,automatic]
+node-pumpify/noble 2.0.1-2 all
+node-punycode/noble,now 2.2.3-2 all [installed,automatic]
+node-puppeteer/noble 13.4.1+dfsg-2ubuntu1 all
+node-pure-rand/noble 6.0.4+ds1-1 all
+node-q/noble 1.5.1-4 all
+node-qrcode-generator/noble 1.4.4+dfsg-3 all
+node-qs/noble 6.11.0+ds+~6.9.7-4 all
+node-querystring-es3/noble 0.2.1-3 all
+node-querystring/noble 0.2.1-3 all
+node-querystringify/noble 2.2.0+~2.0.0-2 all
+node-queue-async/noble 1.0.7-2 all
+node-quick-lru/noble,now 6.1.1-4 all [installed,automatic]
+node-quickjs-emscripten/noble 0.23.0+dfsg-4 all
+node-quote-stream/noble 1.0.2-9 all
+node-qw/noble 1.0.1-3 all
+node-rai/noble 0.1.12-7 all
+node-ramda/noble 0.28.0+dfsg+~cs9.34.18-2 all
+node-random-bytes/noble 1.0.0-2 all
+node-randombytes/noble,now 2.1.0+~2.0.0-2 all [installed,automatic]
+node-randomfill/noble 1.0.4-6 all
+node-range-parser/noble 1.2.1+~1.2.4-1 all
+node-raven-js/noble 3.22.1+dfsg-7 all
+node-raw-body/noble 2.5.1-1 all
+node-raw-loader/noble 4.0.2-3 all
+node-rc/noble 1.2.8-2 all
+node-rdf-canonize/noble 3.4.0-1 all
+node-re2/noble,now 1.20.10+~cs2.13.13-1 amd64 [installed,automatic]
+node-react-base16-styling/noble 0.9.1~3.13.1~git20230831-2 all
+node-react-display-name/noble 0.2.5~3.3.0+~cs1.2.8-3 all
+node-react-dock/noble 0.6.0~3.13.1~git20230831-2 all
+node-react-dom/noble 18.1.0~18.2.0+dfsg+~cs88.72.117-1 all
+node-react-fast-compare/noble 3.2.0-4 all
+node-react-highlight-words/noble 0.20.0+~cs7.18.6-1 all
+node-react-highlighter/noble 0.4.3+repack2+~0.3.5-2 all
+node-react-hot-loader/noble 4.13.1+~cs12.12.4-2 all
+node-react-is/noble 18.1.0~18.2.0+dfsg+~cs88.72.117-1 all
+node-react-json-tree/noble 0.18.0~3.13.1~git20230831-2 all
+node-react-jss/noble 10.10.0+ds3+~0.3.1-1 all
+node-react-lifecycles-compat/noble 3.0.4+~cs3.0.1-2 all
+node-react-paginate/noble 8.2.0+ds-1 all
+node-react-popper/noble 2.3.0-4 all
+node-react-reconciler/noble 0.28.0~18.2.0+dfsg+~cs88.72.117-1 all
+node-react-redux/noble 8.1.2+dfsg1+~cs1.2.3-1 all
+node-react-refresh/noble 0.13.0~18.2.0+dfsg+~cs88.72.117-1 all
+node-react-shallow-renderer/noble 16.15.0~18.2.0+dfsg+~cs88.72.117-1 all
+node-react-test-renderer/noble 18.1.0~18.2.0+dfsg+~cs88.72.117-1 all
+node-react-toastify/noble 9.1.2+~1.2.1-3 all
+node-react-transition-group/noble 4.4.5+~cs4.4.6-2 all
+node-react/noble 18.2.0+dfsg+~cs88.72.117-1 all
+node-read-file/noble 0.2.0-2 all
+node-read-only-stream/noble 2.0.0-6 all
+node-read-package-json/noble,now 5.0.2+~2.0.0-1 all [installed,automatic]
+node-read-pkg-up/noble 7.0.1-2 all
+node-read-pkg/noble,now 5.2.0-2 all [installed,automatic]
+node-read/noble,now 1.0.7-5 all [installed,automatic]
+node-readable-stream/noble,now 3.6.0+~cs3.0.0-4build1 all [installed,automatic]
+node-readdirp/noble,now 3.6.0-1 all [installed,automatic]
+node-recast/noble 0.23.4-2 all
+node-rechoir/noble,now 0.8.0+~0.6.1-2 all [installed,automatic]
+node-redent/noble 3.0.0-2 all
+node-redis/noble 4.5.1+~1.1.2-2 all
+node-redux-devtools-core/noble 3.13.1~git20230831-2 all
+node-redux-devtools-extension/noble 3.2.5~3.13.1~git20230831-2 all
+node-redux-devtools-serialize/noble 0.4.1~3.13.1~git20230831-2 all
+node-redux/noble 4.2.1-1 all
+node-regenerate-unicode-properties/noble,now 10.1.0+ds-1 all [installed,automatic]
+node-regenerate/noble,now 1.4.2-3 all [installed,automatic]
+node-regenerator-preset/noble 0.15.2+~0.10.8-1 all
+node-regenerator-runtime/noble,now 0.15.2+~0.10.8-1 all [installed,automatic]
+node-regenerator-transform/noble,now 0.15.2+~0.10.8-1 all [installed,automatic]
+node-regenerator/noble 0.15.2+~0.10.8-1 all
+node-regex-cache/noble 0.4.4-1 all
+node-regex-not/noble 1.0.2+~1.0.0-1 all
+node-regexp-match-indices/noble 1.0.2~git20190823-2 all
+node-regexpp/noble,now 3.2.0-5 all [installed,automatic]
+node-regexpu-core/noble,now 5.2.2-3 all [installed,automatic]
+node-registry-auth-token/noble 5.0.1+~cs2.0.5-1 all
+node-registry-url/noble 6.0.1-1 all
+node-regjsgen/noble,now 0.7.1+ds-1 all [installed,automatic]
+node-regjsparser/noble,now 0.9.1+ds-2 all [installed,automatic]
+node-reinterval/noble 1.1.0-3 all
+node-relateurl/noble 5.5.3+repack2-1 all
+node-remark-slide/noble 0.15.0+ds-2 all
+node-remove-trailing-separator/noble 1.1.0-2 all
+node-repeat-element/noble 1.1.4+~1.1.0-1 all
+node-repeat-string/noble,now 1.6.1+repack-1 all [installed,automatic]
+node-repeating/noble 4.0.0+~3.0.0-1 all
+node-replace-ext/noble 2.0.0-1 all
+node-request-capture-har/noble 1.2.2-3 all
+node-request/noble 2.88.1-6 all
+node-require-all/noble 3.0.0-3 all
+node-require-dir/noble 1.2.0+~1.0.2-1 all
+node-require-directory/noble,now 2.1.1+~2.1.2-1 all [installed,automatic]
+node-require-from-string/noble,now 2.0.2+~1.2.1-1 all [installed,automatic]
+node-require-inject/noble 1.4.4-5 all
+node-require-main-filename/noble 2.0.0-2 all
+node-require-relative/noble 0.8.7+~0.8.0-1 all
+node-requirejs-text/noble 2.0.16-3 all
+node-requirejs/noble 2.3.6+ds+~2.1.34-2 all
+node-requires-port/noble 1.0.0-2 all
+node-reserved/noble 0.1.2+20140511-6 all
+node-resize-observer-polyfill/noble 1.5.1+ds-1 all
+node-resolve-cwd/noble,now 3.0.0-2 all [installed,automatic]
+node-resolve-dir/noble 1.0.1-3 all
+node-resolve-from/noble,now 5.0.0+~3.1.0+~3.3.0+~2.0.0-1 all [installed,automatic]
+node-resolve-pkg/noble 2.0.0-3 all
+node-resolve/noble,now 1.22.8+~cs5.34.15-2 all [installed,automatic]
+node-response-time/noble 2.3.2+~2.3.5-1 all
+node-restore-cursor/noble,now 4.0.0-4 all [installed,automatic]
+node-resumer/noble,now 0.0.0-6 all [installed,automatic]
+node-retape/noble 0.0.3-6 all
+node-retry/noble,now 0.13.1+~0.12.1-1 all [installed,automatic]
+node-rewire/noble 6.0.0-3 all
+node-rimraf/noble,now 3.0.2-2 all [installed,automatic]
+node-ripemd160/noble 2.0.2+~2.0.0-1 all
+node-rjsf/noble 5.12.1+~5.0.1-2 all
+node-rollup-plugin-alias/noble 5.0.1~ds-1 all
+node-rollup-plugin-babel/noble 6.0.3+ds1-1 all
+node-rollup-plugin-buble/noble 1.0.1+ds1+~0.19.8-2 all
+node-rollup-plugin-commonjs/noble 25.0.4+ds1-1 all
+node-rollup-plugin-inject/noble 5.0.5~ds1+~3.0.2-1 all
+node-rollup-plugin-json/noble 6.0.0+ds1-2 all
+node-rollup-plugin-node-polyfills/noble 0.2.1+dfsg+~0.11.0-3 all
+node-rollup-plugin-node-resolve/noble 15.2.3+ds-1 all
+node-rollup-plugin-replace/noble 5.0.2+ds+~2.2.0-2 all
+node-rollup-plugin-sass/noble 1.12.16-1 all
+node-rollup-plugin-sourcemaps/noble 0.6.3-8 all
+node-rollup-plugin-string/noble 3.0.0-9 all
+node-rollup-plugin-strip/noble 3.0.1+ds-1 all
+node-rollup-plugin-terser/noble 7.0.2+~5.0.1-8 all
+node-rollup-plugin-typescript2/noble 0.36.0+ds+~cs6.0.6-1 all
+node-rollup-plugin-typescript/noble 11.1.5~ds+~1.0.1-1 all
+node-rollup-plugin-uglify/noble 6.0.4+repack1-4 all
+node-rollup-pluginutils/noble 5.0.2~ds+~2.8.2-1 all
+node-route-recognizer/noble 0.3.4+git.20200411.3de84ec-7 all
+node-run-async/noble 2.4.1-2 all
+node-run-queue/noble,now 2.0.0-3 all [installed,automatic]
+node-rw/noble 1.3.3-5 all
+node-rx/noble 4.1.0+dfsg1-3 all
+node-safe-buffer/noble,now 5.2.1+~cs2.1.2-3 all [installed,automatic]
+node-sane/noble 4.1.0+~cs18.17.38-2 all
+node-sanitize-html/noble 2.8.0+~2.6.2-1 all
+node-sax/noble 1.2.4+~1.2.4-3 all
+node-scheduler/noble 0.22.0~18.2.0+dfsg+~cs88.72.117-1 all
+node-schema-utils/noble,now 4.2.0~ds-3build3 all [installed,automatic]
+node-schlock/noble 0.2.1-2 all
+node-sdp-jingle-json/noble 3.1.0-4 all
+node-security/noble 1.0.0-5 all
+node-seedrandom/noble 2.4.4+dfsg+~2.4.30-1 all
+node-select2/noble 4.0.13+dfsg1-6 all
+node-sellside-emitter/noble,now 1.2.1-3 all [installed,automatic]
+node-semver-diff/noble 3.1.1-4 all
+node-semver/noble,now 7.5.4+~7.5.0-2 all [installed,automatic]
+node-send/noble 0.18.0+~cs1.19.1-3 all
+node-seq/noble 0.3.5-3 all
+node-sequencify/noble 0.0.7+~0.1.0-1 all
+node-serialize-javascript/noble,now 6.0.1-1 all [installed,automatic]
+node-serve-favicon/noble 2.5.0+~2.5.3-2 all
+node-serve-index/noble 1.9.1-6 all
+node-serve-static/noble 1.15.0+~1.15.7-1 all
+node-set-blocking/noble,now 2.0.0-2 all [installed,automatic]
+node-set-getter/noble 0.1.1-1 all
+node-set-immediate-shim/noble,now 2.0.0-2 all [installed,automatic]
+node-set-value/noble,now 4.1.0+~4.0.1-2 all [installed,automatic]
+node-setimmediate/noble 1.0.5-6 all
+node-setprototypeof/noble 1.2.0-2 all
+node-sha.js/noble 2.4.11+~2.4.0-2 all
+node-sha/noble 3.0.0-3 all
+node-shallow-equal/noble 3.1.0-2 all
+node-shallowequal/noble 4.13.1+really-1.1.0~4.13.1+~cs12.12.4-2 all
+node-shasum/noble 1.0.2-4 all
+node-shebang-command/noble,now 2.0.0-1 all [installed,automatic]
+node-shebang-regex/noble,now 3.0.0-2 all [installed,automatic]
+node-shell-quote/noble,now 1.7.4+~1.7.1-1 all [installed,automatic]
+node-shelljs/noble 0.8.5+~cs0.8.10-2 all
+node-shiny-server-client/noble 1.2.0+dfsg-1 all
+node-should-sinon/noble 0.0.6-3 all
+node-should/noble 13.2.3~dfsg-7 all
+node-sigmund/noble 1.0.1+~1.0.0-1 all
+node-signal-exit/noble,now 4.1.0-6 all [installed,automatic]
+node-simple-string-table/noble 1.0.0-4 all
+node-simple-swizzle/noble 0.2.2-5 all
+node-sinclair-typebox/noble 0.24.44-3 all
+node-single-line-log/noble 1.1.2+~1.1.0-1 all
+node-sink-test/noble 1.0.2-5 all
+node-sinon-chai/noble 3.7.0+~cs3.2.5-1 all
+node-sinon/noble 14.0.2+ds+~cs74.13.25-2 all
+node-sixel/noble 0.16.0-2 all
+node-slash/noble,now 4.0.0-3 all [installed,automatic]
+node-slice-ansi/noble,now 5.0.0+~cs9.0.0-5 all [installed,automatic]
+node-slide/noble 1.1.6-4 all
+node-smart-buffer/noble 4.2.0-2 all
+node-smash/noble 0.0.15-3 all
+node-snapdragon-node/noble 3.0.0-5 all
+node-snapdragon-util/noble 5.0.1-7 all
+node-snapdragon/noble 0.12.1+~cs1.2.1-3 all
+node-sntp/noble 4.0.0-2 all
+node-socket.io-parser/noble 4.2.1+~3.1.0-3 all
+node-sockjs-client/noble 1.6.1+dfsg1-2 all
+node-sockjs/noble 0.3.24+~0.3.33-6 all
+node-socks-proxy-agent/noble 8.0.1~0~2023071921-5 all
+node-socks/noble 2.7.1+dfsg-3 all
+node-solid-rest/noble 1.1.3-2 all
+node-sort-keys/noble 4.0.0-2 all
+node-sort-package-json/noble 2.6.0+~cs4.2.3-1 all
+node-sorted-object/noble 2.0.1+~2.0.0-1 all
+node-source-list-map/noble,now 2.0.1+dfsg+~0.1.2-1 all [installed,automatic]
+node-source-map-loader/noble 4.0.1-2 all
+node-source-map-resolve/noble 0.6.0+~cs2.7.3-2 all
+node-source-map-support/noble,now 0.5.21+ds+~0.5.4-1 all [installed,automatic]
+node-source-map/noble,now 0.7.0++dfsg2+really.0.6.1-15 all [installed,automatic]
+node-sourcemap-codec/noble 1.4.8-7 all
+node-sparkles/noble 1.0.1-4 all
+node-spdx-correct/noble,now 3.1.1-2 all [installed,automatic]
+node-spdx-exceptions/noble,now 2.3.0-2 all [installed,automatic]
+node-spdx-expression-parse/noble,now 3.0.1+~3.0.1-1 all [installed,automatic]
+node-spdx-license-ids/noble,now 3.0.12-1 all [installed,automatic]
+node-speech-rule-engine/noble 4.0.7+~0.1.31-2 all
+node-split-string/noble 6.1.0-5 all
+node-split2/noble 4.2.0-1 all
+node-split/noble 1.0.1-1 all
+node-sprintf-js/noble,now 1.1.2+ds1+~1.1.2-1 all [installed,automatic]
+node-sqlite3/noble 5.1.5+ds1-1build1 amd64
+node-sshpk/noble 1.17.0+dfsg-2 all
+node-ssri/noble,now 9.0.1-2 all [installed,automatic]
+node-stable/noble 0.1.8-3 all
+node-stack-trace/noble 0.0.10-3 all
+node-stack-utils/noble,now 2.0.6+~2.0.1-1 all [installed,automatic]
+node-standard-error/noble 1.1.0~1.1.0+~cs15.1.20180823-3 all
+node-standard-http-error/noble 2.0.1~1.1.0+~cs15.1.20180823-3 all
+node-starttls/noble 1.0.1-3 all
+node-static-eval/noble 2.1.0-3 all
+node-static-extend/noble 0.1.2-7 all
+node-static-module/noble 2.2.5+~cs4.2.3-1 all
+node-static/noble 0.7.11+~0.7.7-1 all
+node-stats-webpack-plugin/noble 0.7.0-4 all
+node-statsd-parser/noble 0.0.4-4 all
+node-statuses/noble 2.0.1+~2.0.0-3 all
+node-std-mocks/noble 1.0.1+~1.0.1-2 all
+node-stdlib/noble 0.0.96+ds1+~cs0.0.429-2 all
+node-stealthy-require/noble 1.1.1-6 all
+node-step/noble 1.0.0-1 all
+node-stream-array/noble 1.1.2+~1.1.0-1 all
+node-stream-assert/noble 2.0.3-3 all
+node-stream-browserify/noble 3.0.0-3 all
+node-stream-combiner2/noble 1.1.1-6 all
+node-stream-consume/noble 0.1.1-2 all
+node-stream-each/noble 1.2.3-2 all
+node-stream-http/noble 3.2.0+dfsg-5 all
+node-stream-iterate/noble 1.2.0-6 all
+node-stream-shift/noble 1.0.1+~1.0.0-1 all
+node-stream-splicer/noble 2.0.1-4 all
+node-stream-to-observable/noble 0.2.0+repack-3 all
+node-streamtest/noble 2.0.0-2 all
+node-strftime/noble 0.10.1+~0.9.4-2 all
+node-strict-uri-encode/noble 2.0.0+~2.0.0-1 all
+node-string-decoder/noble,now 1.3.0-6 all [installed,automatic]
+node-string-width/noble,now 4.2.3+~cs13.2.3-1 all [installed,automatic]
+node-string.prototype.codepointat/noble 1.0.0-2 all
+node-stringmap/noble 0.2.2+20130926-5 all
+node-stringstream/noble 1.0.0-2 all
+node-strip-ansi/noble,now 6.0.1-2 all [installed,automatic]
+node-strip-bom-stream/noble 4.0.0-2 all
+node-strip-bom/noble,now 4.0.0-2 all [installed,automatic]
+node-strip-eof/noble 3.0.0-5 all
+node-strip-indent/noble 3.0.0+~1.0.1-3 all
+node-strip-json-comments/noble,now 4.0.0-4 all [installed,automatic]
+node-style-loader/noble 3.3.1-2 all
+node-style-mod/noble 4.1.0~6.22.3+~cs119.52.50-1 all
+node-stylis/noble 4.1.3~11.10.7+ds1+~cs8.3.3-4 all
+node-stylus/noble 0.59.0+~0.48.38-2 all
+node-subarg/noble 1.0.0-4 all
+node-superagent/noble 8.0.5-1 all
+node-supertest/noble 6.3.2-1 all
+node-supports-color/noble,now 8.1.1+~8.1.1-1 all [installed,automatic]
+node-svg2ttf/noble 6.0.3+~cs4.7.1-2 all
+node-symbol-observable/noble 3.0.0-2 all
+node-syntax-error/noble 1.4.0+~1.4.1-3 all
+node-tacks/noble 1.3.0-3 all
+node-tap-mocha-reporter/noble,now 5.0.3+~2.0.2-2 all [installed,automatic]
+node-tap-parser/noble,now 11.0.2+~cs2.1.4-1 all [installed,automatic]
+node-tap/noble,now 16.3.7+ds1+~cs50.9.19-4 all [installed,automatic]
+node-tapable/noble,now 2.2.1-3 all [installed,automatic]
+node-tape/noble,now 5.6.1+~cs8.20.19-1 all [installed,automatic]
+node-tar-fs/noble 2.1.1-6 all
+node-tar-stream/noble 2.2.0+~cs3.2.2-1 all
+node-tar/noble,now 6.1.13+~cs7.0.5-3 all [installed,automatic]
+node-telegram-bot-api/noble 2.0.1-3 all
+node-temp/noble 0.9.4+~0.9.1-1 all
+node-term-size/noble 1.2.0+dfsg-4 all
+node-terser/noble,now 5.19.2-1 all [installed,automatic]
+node-test/noble 0.6.0-11 all
+node-text-encoding/noble 0.7.0-5 all
+node-text-hex/noble 1.0.0-4 all
+node-text-table/noble,now 0.2.0-4 all [installed,automatic]
+node-theming/noble 3.3.0+~cs1.2.8-3 all
+node-thenby/noble 1.3.4+git20200720.0fd165a+ds-5 all
+node-thenify-all/noble 1.6.0-3 all
+node-thenify/noble 3.3.1-3 all
+node-three-orbit-controls/noble 82.1.0-3 all
+node-three-stl-loader/noble 1.0.6-4 all
+node-throttleit/noble 1.0.0+~1.0.0-1 all
+node-through2-filter/noble 3.0.0-3 all
+node-through2/noble 4.0.2-2 all
+node-through/noble,now 2.3.8+~cs0.0.30-1 all [installed,automatic]
+node-tildify/noble 2.0.0-4 all
+node-tilejson/noble 0.1.2-2 all
+node-time-stamp/noble,now 2.2.0-2 all [installed,automatic]
+node-time-zone/noble 1.0.0-5 all
+node-timeago.js/noble 4.0.2-7 all
+node-timed-out/noble 5.0.0-2 all
+node-timers-browserify/noble 2.0.11+dfsg-2 all
+node-tiny-warning/noble 1.0.3~3.3.0+~cs1.2.8-3 all
+node-tinycolor/noble 0.0.1-4 all
+node-tippex/noble 3.0.0+ds-9 all
+node-tldjs/noble 2.3.1-1.1 all
+node-tmatch/noble 5.0.0-4 all
+node-tmp/noble 0.2.2+dfsg+~0.2.3-1 all
+node-to-absolute-glob/noble 2.0.2-3 all
+node-to-arraybuffer/noble 1.0.1-3 all
+node-to-fast-properties/noble,now 3.0.1-3 all [installed,automatic]
+node-to-object-path/noble 0.3.0-3 all
+node-to-regex-range/noble,now 5.0.1-4 all [installed,automatic]
+node-to-regex/noble 3.0.2+~cs6.3.28-1 all
+node-toidentifier/noble 1.0.1-1 all
+node-token-types/noble 2.1.1+~cs0.2.0-3 all
+node-tough-cookie/noble 4.1.3+~4.0.2-2 all
+node-transformers/noble 3.1.0+~1.0.0-2 all
+node-traverse/noble 0.6.7+~0.6.32-1 all
+node-trim-newlines/noble 3.0.0+~3.0.0-1 all
+node-triple-beam/noble 1.3.0+~1.3.2-1 all
+node-trust-json-document/noble 0.1.4~dfsg-11 all
+node-trust-keyto/noble 2.0.0~alpha1-3 all
+node-trysound-sax/noble 0.2.0-3 all
+node-ts-loader/noble 9.4.2-1 all
+node-tslib/noble,now 2.4.1-1 all [installed,automatic]
+node-tty-browserify/noble 0.0.1-3 all
+node-tunein/noble 1.0.1-2 all
+node-tunnel-agent/noble 0.6.1-4 all
+node-turbolinks/noble 5.2.0+dfsg-6 all
+node-turndown/noble 7.1.1-3 all
+node-tweetnacl/noble 1.0.3+dfsg-3 all
+node-typanion/noble 3.14.0+dfsg-1 all
+node-type-check/noble,now 0.4.0+dfsg-3 all [installed,automatic]
+node-type-detect/noble 4.0.8-4 all
+node-type-is/noble 1.6.19-3 all
+node-typedarray-to-buffer/noble,now 4.0.0-2 all [installed,automatic]
+node-typedarray/noble,now 0.0.7-1 all [installed,automatic]
+node-typescript/noble 4.8.4+ds1-2 all
+node-typestyle/noble 2.4.0+ds+~3.0.10-1 all
+node-ua-parser-js/noble 0.8.1+ds+~0.7.36-3 all
+node-uglify-js/noble 3.17.4-2 all
+node-uglify-save-license/noble 0.4.1-2 all
+node-uglify/noble 2.8.29-8 all
+node-uid-number/noble 0.0.6-3 all
+node-uid-safe/noble 2.1.5+~2.1.2-1 all
+node-ultron/noble 1.1.1+~1.1.0-1 all
+node-umd/noble 3.0.3+ds+~3.0.1-1 all
+node-unbzip2-stream/noble 1.4.2-5 all
+node-unc-path-regex/noble 0.1.2+~0.1.0-1 all
+node-underscore.string/noble 3.3.6+dfsg-1 all
+node-underscore/noble 1.13.4~dfsg+~1.11.4-3 all
+node-undici/noble,now 5.26.3+dfsg1+~cs23.10.12-2 all [installed,automatic]
+node-unicode-15.0.0/noble 0~20220914+gitb601441-2 all
+node-unicode-canonical-property-names-ecmascript/noble,now 2.0.0-2 all [installed,automatic]
+node-unicode-loose-match/noble 2.5.0-3 all
+node-unicode-match-property-ecmascript/noble,now 2.0.0-2 all [installed,automatic]
+node-unicode-match-property-value-ecmascript/noble,now 2.1.0+ds-1 all [installed,automatic]
+node-unicode-property-aliases-ecmascript/noble,now 2.1.0+ds-1 all [installed,automatic]
+node-unicode-property-aliases/noble 1.6.0+ds-1 all
+node-unicode-property-value-aliases-ecmascript/noble 2.1.0+ds-1 all
+node-unicode-property-value-aliases/noble 3.7.0+ds-1 all
+node-union-value/noble,now 2.0.1-4 all [installed,automatic]
+node-uniq/noble 1.0.1-2 all
+node-uniqid/noble 5.4.0-2 all
+node-uniqs/noble 2.0.0-5 all
+node-unique-filename/noble,now 1.1.1+ds-2 all [installed,automatic]
+node-unique-stream/noble 2.3.1-1 all
+node-unique-string/noble 2.0.0-3 all
+node-universalify/noble 2.0.0-3 all
+node-unorm/noble 1.6.0+~1.3.28-1 all
+node-unpipe/noble 1.0.0-4 all
+node-unset-value/noble,now 2.0.1-1 all [installed,automatic]
+node-uri-js/noble,now 4.4.0+dfsg-8 all [installed,automatic]
+node-uri-path/noble 1.0.0-5 all
+node-url-join/noble 5.0.0-1 all
+node-url-loader/noble 4.1.1-5 all
+node-url-parse-lax/noble 4.0.0-2 all
+node-url-parse/noble 1.5.10+~1.4.8-3 all
+node-url-to-options/noble 2.0.0-1 all
+node-url/noble 0.11.0-6 all
+node-urlgrey/noble 1.0.0+~1.1.3-1 all
+node-use/noble 3.1.1-3 all
+node-util-deprecate/noble,now 1.0.2-3 all [installed,automatic]
+node-util/noble,now 0.12.5+~1.0.10-1 all [installed,automatic]
+node-utilities/noble 1.0.6-1 all
+node-utils-merge/noble 1.0.1-3 all
+node-utml/noble 0.2.0~gite9f7c3d-2 all
+node-uuid/noble,now 8.3.2+~8.3.3-4 all [installed,automatic]
+node-v8-compile-cache/noble,now 2.4.0-2 all [installed,automatic]
+node-v8flags/noble,now 3.2.0+~3.1.1-1 all [installed,automatic]
+node-vali-date/noble 1.0.0-3 all
+node-validate-npm-package-license/noble,now 3.0.4-2 all [installed,automatic]
+node-validate-npm-package-name/noble,now 5.0.0+~4.0.0-1 all [installed,automatic]
+node-vary/noble 1.1.2+~1.1.0-1 all
+node-vasync/noble 2.2.1-2 all
+node-vdom-to-html/noble 2.3.1+~cs24.7.3-2 all
+node-vega-embed/noble 6.23.0-1 all
+node-vega-lite/noble 5.16.1+~4.0.0-1 all
+node-vega-themes/noble 2.14.0-2 all
+node-vega-tooltip/noble 0.33.0-2 all
+node-vega/noble 5.25.0+ds+~cs5.3.0-5 all
+node-verror/noble 1.10.1+~1.10.5-2 all
+node-vhost/noble 3.0.2-6 all
+node-vinyl-fs/noble 3.0.3+~cs18.10.16-1 all
+node-vinyl-sourcemaps-apply/noble 0.2.1-2 all
+node-vinyl/noble 2.2.1+~cs3.0.7-1 all
+node-vlq/noble 2.0.4-4 all
+node-vm-browserify/noble 1.1.2+ds-4 all
+node-vows/noble 0.8.3-6 all
+node-vscode-debugprotocol/noble 1.57.0-2 all
+node-vscode-jsonrpc/noble 8.2.0~next.0~1.0.0~git20230424.1320922-3 all
+node-vscode-languageserver-protocol/noble 3.17.4~next.0~1.0.0~git20230424.1320922-3 all
+node-vscode-languageserver-textdocument/noble 1.0.10~1.0.0~git20230424.1320922-3 all
+node-vscode-languageserver-tools/noble 0.1.0~1.0.0~git20230424.1320922-3 all
+node-vscode-languageserver-types/noble 3.17.4~next.0~1.0.0~git20230424.1320922-3 all
+node-vscode-languageserver/noble 8.2.0~next.0~1.0.0~git20230424.1320922-3 all
+node-vscode-ws-jsonrpc/noble 3.0.0~20230504.93ecd19-2 all
+node-vue-hot-reload-api/noble 2.3.4-3 all
+node-vue-resource/noble 1.5.3+dfsg+~1.3.6-3 all
+node-vue-style-loader/noble 4.1.3-2 all
+node-vue/noble 2.6.14+dfsg1-1 all
+node-w3c-keyname/noble 2.2.6-2 all
+node-warning/noble 4.0.3+~cs3.0.2-1 all
+node-watchpack/noble,now 2.4.0+~cs2.8.1-1 all [installed,automatic]
+node-wcwidth.js/noble,now 1.0.2-2 all [installed,automatic]
+node-webassemblyjs/noble,now 1.11.4+dfsg+~cs10.11.17-2 all [installed,automatic]
+node-webfinger/noble 0.4.2-2 all
+node-webfont/noble 11.4.0+dfsg2+~cs35.7.26-7ubuntu1 all
+node-webidl-conversions/noble 7.0.0~1.1.0+~cs15.1.20180823-3 all
+node-webpack-env/noble 0.8.0+~1.18.0-1 all
+node-webpack-merge/noble 5.8.0+~2.0.0-1 all
+node-webpack-sources/noble,now 3.2.3+~3.2.0-2 all [installed,automatic]
+node-webpack-stats-plugin/noble 1.1.3-1 all
+node-webrtc-adapter/noble 8.2.3~ds-1 all
+node-websocket-driver/noble 0.7.4+~cs0.6.7-2 all
+node-websocket-stream/noble 5.4.0-5 all
+node-websocket/noble 1.0.34+~cs10.0.25-2build1 amd64
+node-whatwg-fetch/noble 3.6.2-7 all
+node-when/noble 3.7.8+ds-7 all
+node-which-module/noble 2.0.0-3 all
+node-which/noble,now 2.0.2+~cs1.3.2-3 all [installed,automatic]
+node-wide-align/noble,now 1.1.3-4 all [installed,automatic]
+node-widest-line/noble,now 3.1.0-2 all [installed,automatic]
+node-wikibase-cli/noble 15.15.4-5ubuntu4 all
+node-wikibase-edit/noble 5.3.0-1 all
+node-wikibase-sdk/noble 8.1.1+ds-1 all
+node-wikidata-lang/noble 2.0.11-2 all
+node-wildemitter/noble 1.2.1~ds-2 all
+node-winston-compat/noble 0.1.5-3 all
+node-winston-transport/noble 4.5.0-2 all
+node-winston/noble 3.8.2-1 all
+node-with/noble 7.0.2+~cs4.2.1-2 all
+node-wordwrap/noble,now 1.0.0-4 all [installed,automatic]
+node-worker-loader/noble 3.0.8-5 all
+node-wrap-ansi/noble,now 8.0.1+~8.0.1-3 all [installed,automatic]
+node-wrappy/noble,now 1.0.2-3 all [installed,automatic]
+node-write-file-atomic/noble,now 4.0.2+~4.0.0-2 all [installed,automatic]
+node-write-file-promise/noble 1.0.0-2 all
+node-write/noble,now 2.0.0~6.0.1+~3.0.4+~2.0.0+~1.0.0+~2.0.1-1 all [installed,automatic]
+node-ws-iconv/noble 0.0~git20220306210217.c039e94-5 all
+node-ws/noble,now 8.11.0+~cs13.7.3-2 all [installed,automatic]
+node-xdg-basedir/noble 5.1.0-1 all
+node-xml2js/noble 0.6.2+~cs15.1.1-1 all
+node-xmldom/noble 0.8.6-1 all
+node-xmlhttprequest/noble 1.8.0-4 all
+node-xoauth2/noble 1.2.0-3 all
+node-xregexp/noble 3.1.1+dfsg-2 all
+node-xtend/noble,now 4.0.2-3 all [installed,automatic]
+node-xterm/noble 5.3.0-2 all
+node-xxhashjs/noble 0.2.2+dfsg+~0.2.2-1 all
+node-y-codemirror/noble 3.0.1-2 all
+node-y-protocols/noble 1.0.6-1 all
+node-y-websocket/noble 1.4.5-5 all
+node-y18n/noble,now 5.0.8+~5.0.0-3 all [installed,automatic]
+node-yajsml/noble 1.1.5+ds-5 all
+node-yallist/noble,now 4.0.0+~4.0.1-1 all [installed,automatic]
+node-yaml/noble,now 2.3.4-1build1 all [installed,automatic]
+node-yamlish/noble 0.0.7-5 all
+node-yargs-parser/noble,now 21.1.1+~21.0.0-4 all [installed,automatic]
+node-yargs/noble,now 16.2.0+~16.0.4-7 all [installed,automatic]
+node-yarn-tool-resolve-package/noble 2.0.4-1 all
+node-yauzl/noble 2.10.0-4 all
+node-yazl/noble 2.5.1-3 all
+node-yjs/noble 13.6.8-1 all
+node-yn/noble 4.0.0-3 all
+node-ytdl-core/noble 4.11.2+dfsg+~cs4.10.8-2 all
+node-zen-observable/noble 0.8.15-3 all
+node-zeparser/noble 0.0.7+dfsg-6 all
+node-zkochan-cmd-shim/noble 5.3.1+~1.0.2-3 all
+node-zrender/noble 5.4.1+dfsg-1 all
+nodeenv/noble 0.13.4-1.1 all
+nodejs-doc/noble,now 18.19.1+dfsg-6ubuntu5 all [installed,automatic]
+nodejs/noble,now 18.19.1+dfsg-6ubuntu5 amd64 [installed]
+nodeunit/noble 0.11.3+ds-4 all
